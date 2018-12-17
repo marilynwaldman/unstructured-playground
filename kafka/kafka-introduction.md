@@ -25,6 +25,8 @@
 
 ![](../.gitbook/assets/screen-shot-2018-12-17-at-12.02.40-pm.png)
 
+![](../.gitbook/assets/screen-shot-2018-12-17-at-12.22.10-pm.png)
+
 #### Architecture
 
 ![Kafka - put everything on the stream](../.gitbook/assets/screen-shot-2018-12-17-at-12.08.43-pm.png)
@@ -32,4 +34,13 @@
 ####  Solves the Messy Communications Problem
 
 ![https://www.slideshare.net/KaiWaehner/apache-kafka-as-eventdriven-open-source-streaming-platform-prague-meetup?qid=64dec3ab-f2a2-4ee5-86df-23feef24840d&amp;v=&amp;b=&amp;from\_search=2](../.gitbook/assets/screen-shot-2018-12-17-at-12.11.04-pm.png)
+
+#### Scaling
+
+![Open up another buffer or broker](../.gitbook/assets/screen-shot-2018-12-17-at-12.24.01-pm.png)
+
+![Start more consumers](../.gitbook/assets/screen-shot-2018-12-17-at-12.25.31-pm.png)
+
+  
+
 
