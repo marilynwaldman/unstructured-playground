@@ -15,6 +15,7 @@
 * fraud detection
 * IOT
 * show architecture of stuff
+* infinite sequence ....
 
 
 
@@ -41,6 +42,14 @@
 
 ![Start more consumers](../.gitbook/assets/screen-shot-2018-12-17-at-12.25.31-pm.png)
 
-  
+#### Replication for reliability
 
+![https://www.saowen.com/a/e25edaf7cf39676b6cb617bbb1e988a0ecf9fe3cc0275e85a2ff5d76bc59f14b](../.gitbook/assets/screen-shot-2018-12-17-at-12.32.59-pm.png)
+
+#### Brokers, Partitions, Topics
+
+* Broker - URL
+* Partition
+* Topic 
+* [http://codeflex.co/what-is-apache-kafka/](http://codeflex.co/what-is-apache-kafka/)
 
