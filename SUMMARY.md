@@ -91,4 +91,5 @@
 ## Kafka
 
 * [Kafka Introduction](kafka/kafka-introduction.md)
+* [Architecture](kafka/architecture.md)
 
