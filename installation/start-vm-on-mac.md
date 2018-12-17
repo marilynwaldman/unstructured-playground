@@ -17,8 +17,6 @@
 
 * Open a terminal
 
-  ![Screenshot](https://github.com/marilynwaldman/unstructured-playground/tree/1b012d97a6b55b64480149a947a06a65a62227b7/installation/images/openaterminal.png)
-
 * Make sure you are in your $HOME directory and clone vagrant
 
 ```bash
