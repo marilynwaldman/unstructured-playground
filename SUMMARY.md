@@ -88,3 +88,7 @@
 * [Install Vagrant on Mac](installation/install-vagrant-on-mac.md)
 * [Start VM on MAC](installation/start-vm-on-mac.md)
 
+## Kafka
+
+* [Kafka Introduction](kafka/kafka-introduction.md)
+
