@@ -1,0 +1,4 @@
+# Academic Integrity
+
+All students of the University of Colorado at Boulder are responsible for knowing and adhering to the academic integrity policy of this institution. Violations of this policy may include: cheating, plagiarism, aid of academic dishonesty, fabrication, lying, bribery, and threatening behavior. All incidents of academic misconduct shall be reported to the Honor Code Council \([honor@colorado.edu](mailto:honor@colorado.edu); 303-735-2273\). Students who are found to be in violation of the academic integrity policy will be subject to both academic sanctions from the faculty member and non-academic sanctions \(including but not limited to university probation, suspension, or expulsion\). Other information on the Honor Code can be found at [http://www.colorado.edu/policies/honor.html](http://www.colorado.edu/policies/honor.html) and at [http://honorcode.colorado.edu](http://honorcode.colorado.edu/).
+

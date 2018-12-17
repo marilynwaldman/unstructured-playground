@@ -1,0 +1,6 @@
+# Classroom Behavior
+
+Students and faculty each have responsibility for maintaining an appropriate learning environment. Those who fail to adhere to such behavioral standards may be subject to discipline. Professional courtesy and sensitivity are especially important with respect to individuals and topics dealing with differences of race, color, culture, religion, creed, politics, veteran’s status, sexual orientation, gender, gender identity and gender expression, age, disability, and nationalities. Class rosters are provided to the instructor with the student's legal name. I will gladly honor your request to address you by an alternate name or gender pronoun. Please advise me of this preference early in the semester so that I may make appropriate changes to my records. See policies at [http://www.colorado.edu/policies/classbehavior.html](http://www.colorado.edu/policies/classbehavior.html) and at [http://www.colorado.edu/studentaffairs/judicialaffairs/code.html\#student\_code](http://www.colorado.edu/studentaffairs/judicialaffairs/code.html#student_code)
+
+#### 
+
