@@ -92,4 +92,5 @@
 
 * [Kafka Introduction](kafka/kafka-introduction.md)
 * [Architecture](kafka/architecture.md)
+* [Simple Producer/Consumer](kafka/simple-producer-consumer.md)
 
