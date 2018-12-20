@@ -2,15 +2,15 @@
 
 Introduction
 
-This is a simple lab with Kafka demonstrating pub/sub.  It does not use docker. Students will down load and install Confluent, start zookeeper, the brokers and a schema.  They will then start a producer and consumer process.
+This is a simple lab with Kafka demonstrating pub/sub. It does not use docker. Students will down load and install Confluent, start zookeeper, the brokers and a schema. They will then start a producer and consumer process.
 
 Links are here: [https://docs.confluent.io/3.3.0/installation/installing\_cp.html\#debian-and-ubuntu](https://docs.confluent.io/3.3.0/installation/installing_cp.html#debian-and-ubuntu)
 
- and here:
+and here:
 
 Steps are as:
 
-1.  Start the VM - vagrant up.  In the VM do:$ wget -qO - add -
+1. Start the VM - vagrant up.  In the VM do:$ wget -qO - add -
 
 ```text
 wget -qO - https://packages.confluent.io/deb/3.3/archive.key | sudo apt-key add -
@@ -25,7 +25,7 @@ sudo apt-get update && sudo apt-get install confluent-platform-2.11
 ```
 
 ```text
-cd /usr/bin/   
+cd /usr/bin/
 ```
 
 Start Confluent ZooKeeper, Kafka, and Schema Registry services using the [Command Line Interface](https://docs.confluent.io/3.3.0/cli/index.html#cli).
@@ -46,10 +46,6 @@ schema-registry is [UP]
 ```
 
 Start the Kafka Avro Console Producer utility. It is directed at your local Kafka cluster and is configured to write to topic `test`, read each line of input as an Avro message, validate the schema against the Schema Registry at the specified URL, and finally indicate the format of the data.
-
-
-
-
 
 Open a terminal
 
@@ -73,23 +69,11 @@ Now we can check that the data was produced by using Kafka’s console consumer 
 
 Open another terminal:
 
-
-
-
-
 ```text
 kafka-avro-console-consumer --topic test \
          --zookeeper localhost:2181 \
          --from-beginning
 ```
 
-{% embed url="https://docs.confluent.io/3.3.0/quickstart.html\#quickstart" %}
-
-
-
-
-
-
-
- 
+{% embed url="https://docs.confluent.io/3.3.0/quickstart.html\#quickstart" caption="" %}
 

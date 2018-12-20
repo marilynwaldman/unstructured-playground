@@ -1,7 +1,5 @@
 # Course Objectives
 
-
-
 By the end of this course students should be able to:
 
 * Use standard software development tools such as the Linux command line \(`bash`\), `git`, and `docker`.

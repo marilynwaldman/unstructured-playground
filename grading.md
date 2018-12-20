@@ -1,7 +1,5 @@
 # Grading
 
-
-
 | Component | Pct |
 | :--- | :--- |
 | Homework and Quizzes | 35% |

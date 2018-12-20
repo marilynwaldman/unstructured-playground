@@ -22,5 +22,3 @@ We will also distinguish between _data at rest_ \(in the data lake\) versus _dat
 
 Finally, we will learn about so-called “NoSQL” datastores such as Elasticsearch and Cassandra. We will see that these are well-suited targets for streaming data.
 
-### 
-

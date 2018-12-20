@@ -16,7 +16,6 @@
 ## VAGRANT
 
 * Open a terminal
-
 * Make sure you are in your $HOME directory and clone vagrant
 
 ```bash
