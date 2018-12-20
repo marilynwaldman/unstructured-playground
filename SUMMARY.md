@@ -96,3 +96,7 @@
 * [Lab - Confluent on the VM](kafka/lab-confluent-on-the-vm.md)
 * [Making Sense of Stream Processing](kafka/making-sense-of-stream-processing.md)
 
+## Unix Philosophy
+
+* [Kafka, Samza, and the Unix philosophy of distributed data](unix-philosophy/kafka-samza-and-the-unix-philosophy-of-distributed-data.md)
+
