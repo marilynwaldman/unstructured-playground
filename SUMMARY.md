@@ -100,7 +100,3 @@
 
 * [Kafka, Samza, and the Unix philosophy of distributed data](unix-philosophy/kafka-samza-and-the-unix-philosophy-of-distributed-data.md)
 
-## test youtube video
-
-* [Untitled](test-youtube-video/untitled.md)
-
