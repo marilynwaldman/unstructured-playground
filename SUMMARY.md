@@ -94,4 +94,5 @@
 * [Architecture](kafka/architecture.md)
 * [Simple Producer/Consumer](kafka/simple-producer-consumer.md)
 * [Lab - Confluent on the VM](kafka/lab-confluent-on-the-vm.md)
+* [Making Sense of Stream Processing](kafka/making-sense-of-stream-processing.md)
 
