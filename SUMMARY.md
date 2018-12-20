@@ -17,6 +17,7 @@
 ## January 14
 
 * [January 14](january-14/lecture.md)
+* [Homework](https://github.com/sstirlin/MSBX5420Spring2019/tree/master/0104bash)
 
 ## January 21
 
