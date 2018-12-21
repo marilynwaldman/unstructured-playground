@@ -44,7 +44,7 @@ _**Copy and Paste do not work on VirtualBox for MAC.  While in your VM use:**_
 * run vagrant up - this will run for a long time. Wait until you get a command line
 
   ```bash
-  vagrant 
+  vagrant up
   ```
 
 ### Recycle vagrant
