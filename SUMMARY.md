@@ -101,3 +101,7 @@
 
 * [Kafka, Samza, and the Unix philosophy of distributed data](unix-philosophy/kafka-samza-and-the-unix-philosophy-of-distributed-data.md)
 
+## Spark
+
+* [Install Spark](spark/install-spark.md)
+
