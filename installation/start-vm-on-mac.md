@@ -9,6 +9,8 @@
 
 ### NOTICE
 
+_**Copy and Paste do not work on VirtualBox for MAC.  While in your VM use:**_
+
 #### COPY will be \(SHIFT CONTROL C\)
 
 #### PASTE will be \(SHIFT CONTROL V\)
