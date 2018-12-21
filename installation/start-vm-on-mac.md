@@ -44,24 +44,8 @@ _**Copy and Paste do not work on VirtualBox for MAC.  While in your VM use:**_
 * run vagrant up - this will run for a long time. Wait until you get a command line
 
   ```bash
-  vagrant up
+  vagrant 
   ```
-
-  ![Screenshot](https://github.com/marilynwaldman/unstructured-playground/tree/1b012d97a6b55b64480149a947a06a65a62227b7/installation/images/vagrantup.png)
-
-* You will see a terminal like this
-
-  ![Screenshot](https://github.com/marilynwaldman/unstructured-playground/tree/1b012d97a6b55b64480149a947a06a65a62227b7/installation/images/seeterminal.png)
-
-* Go to APPS and double click on VirtualBox
-
-  ![Screenshot](https://github.com/marilynwaldman/unstructured-playground/tree/1b012d97a6b55b64480149a947a06a65a62227b7/installation/images/gotoapps.png)
-
-* Shut the VM down
-
-  ![Screenshot](https://github.com/marilynwaldman/unstructured-playground/tree/1b012d97a6b55b64480149a947a06a65a62227b7/installation/images/close.png)
-
-  ![Screenshot](https://github.com/marilynwaldman/unstructured-playground/tree/1b012d97a6b55b64480149a947a06a65a62227b7/installation/images/poweroff.png)
 
 ### Recycle vagrant
 
