@@ -27,6 +27,7 @@ docker run -it --rm --name nc --network testnet appropriate/nc -lk 5555
 Start Jupyter with the volume containing your notebooks
 
 ```text
-docker run -d --network testnet  -p 8888:8888  -v $HOME/python-spark-streaming:/home/jovyan/work jupyter/all-spark-notebook:rw start-notebook.sh --NotebookApp.token='' 
+docker run -d --network testnet  -p 8888:8888  -v $HOME/python-spark-streaming:/home/jovyan/work:rw jupyter/all-spark-notebook start-notebook.sh --NotebookApp.token='' 
+
 ```
 
