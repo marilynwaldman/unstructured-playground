@@ -105,10 +105,6 @@
 
 * [Kafka, Samza, and the Unix philosophy of distributed data](unix-philosophy/kafka-samza-and-the-unix-philosophy-of-distributed-data.md)
 
-## testit
-
-* [Netcat with All Spark Notebooks](testit/untitled.md)
-
 ## Kafka
 
 * [Kafka Introduction](kafka/kafka-introduction.md)
@@ -118,6 +114,10 @@
 * [Confluent - Making Sense of Stream Processing](kafka/making-sense-of-stream-processing.md)
 * [Oracle - Introduction to Steam Processing](kafka/oracle-introduction-to-steam-processing.md)
 * [IBM - An introduction to Kafka](kafka/ibm-an-introduction-to-kafka.md)
+
+## testit
+
+* [Netcat with All Spark Notebooks](testit/untitled.md)
 
 ## Jupyter
 
