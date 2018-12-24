@@ -92,6 +92,7 @@
 ## Functional Programming
 
 * [Python Lambda Expressions and Functional Programming](functional-programming/untitled.md)
+* [Notebook Lambda Expressions](functional-programming/notebook-lambda-expressions.md)
 
 ## Spark
 
