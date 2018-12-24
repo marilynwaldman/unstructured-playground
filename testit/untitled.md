@@ -31,3 +31,10 @@ docker run -d --network testnet  -p 8888:8888  -v $HOME/python-spark-streaming:/
 
 ```
 
+Remove your docker containers and network
+
+```text
+docker stop $(docker ps -aq)
+docker network rm testnet
+```
+
