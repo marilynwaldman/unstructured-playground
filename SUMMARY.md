@@ -109,5 +109,5 @@
 
 ## testit
 
-* [NetCat with All Spark Notebooks](testit/untitled.md)
+* [Netcat with All Spark Notebooks](testit/untitled.md)
 
