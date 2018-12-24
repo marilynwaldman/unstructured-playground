@@ -98,11 +98,14 @@
 * [Confluent - Making Sense of Stream Processing](kafka/making-sense-of-stream-processing.md)
 * [Oracle - Introduction to Steam Processing](kafka/oracle-introduction-to-steam-processing.md)
 * [IBM - An introduction to Kafka](kafka/ibm-an-introduction-to-kafka.md)
-* [view notebook](https://nbviewer.jupyter.org/github/marilynwaldman/unstructuredNotebooks/blob/master/work/SparkRdds/lab2_sparkRDDs.ipynb#)
 
 ## Unix Philosophy
 
 * [Kafka, Samza, and the Unix philosophy of distributed data](unix-philosophy/kafka-samza-and-the-unix-philosophy-of-distributed-data.md)
+
+## Functional Programming
+
+* [Python Lambda Expressions and Functional Programming](functional-programming/untitled.md)
 
 ## Spark
 
