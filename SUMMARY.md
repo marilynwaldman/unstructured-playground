@@ -94,6 +94,7 @@
 * [Python Lambda Expressions and Functional Programming](functional-programming/untitled.md)
 * [Untitled](functional-programming/untitled-1.md)
 * [01 Notebook Lambda Expressions](https://nbviewer.jupyter.org/github/marilynwaldman/unstructuredNotebooks/blob/master/work/Functional%20Programming%20in%20Python/01_LambdaExpressions.ipynb)
+* [02 Notebook Map Abstraction](https://nbviewer.jupyter.org/github/marilynwaldman/unstructuredNotebooks/blob/master/work/Functional%20Programming%20in%20Python/02_FunctionalProgramming%20.ipynb)
 
 ## Spark
 
