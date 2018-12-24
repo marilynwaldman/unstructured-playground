@@ -107,7 +107,6 @@
 
 ## Kafka
 
-* [Kafka Introduction](kafka/kafka-introduction.md)
 * [Architecture](kafka/architecture.md)
 * [Lab - Confluent on the VM](kafka/lab-confluent-on-the-vm.md)
 * [Lab - bare bones Kafka](kafka/lab-bare-bones-kafka.md)
