@@ -115,4 +115,5 @@
 ## Jupyter
 
 * [View Jupyter Notebooks](jupyter/view-jupyter-notebooks.md)
+* [View a Notebook](jupyter/view-a-notebook.md)
 
