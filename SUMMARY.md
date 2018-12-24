@@ -111,3 +111,7 @@
 
 * [Netcat with All Spark Notebooks](testit/untitled.md)
 
+## Jupyter
+
+* [View Jupyter Notebooks](jupyter/view-jupyter-notebooks.md)
+
