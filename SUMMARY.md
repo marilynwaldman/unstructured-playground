@@ -100,10 +100,10 @@
 ## Spark
 
 * [Install Spark](spark/install-spark.md)
+* [Spark RDDs](spark/spark-rdds.md)
 
-## Spark Rdds
+## Spark Notebooks
 
-* [Spark RDDs](spark-rdds/spark-rdds.md)
 * [02 Notebook Spark Rdds](https://nbviewer.jupyter.org/github/marilynwaldman/unstructuredNotebooks/blob/master/work/SparkRdds/02_Notebook_Rdds.ipynb)
 * [03 Notebook Simple WordCount](https://nbviewer.jupyter.org/github/marilynwaldman/unstructuredNotebooks/blob/master/work/SparkRdds/03_Notebook_Simple_WordCount.ipynb)
 * [04 Notebook WordCount](https://nbviewer.jupyter.org/github/marilynwaldman/unstructuredNotebooks/blob/master/work/SparkRdds/04_Notebook_WordCount_Again.ipynb)
