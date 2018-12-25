@@ -137,8 +137,6 @@
 
 ## Jupyter
 
-* [View a Notebook](jupyter/view-a-notebook.md)
-
 ## Spark Resources
 
 * [Mastering Apache Spark 2.3.2](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)
