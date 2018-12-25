@@ -104,6 +104,7 @@
 ## Spark Rdds
 
 * [Spark RDDs](spark-rdds/spark-rdds.md)
+* [02 Notebook Spark Rdds](https://nbviewer.jupyter.org/github/marilynwaldman/unstructuredNotebooks/blob/master/work/SparkRdds/02_Notebook_Rdds.ipynb)
 
 ## Unix Philosophy
 
