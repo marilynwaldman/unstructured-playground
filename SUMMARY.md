@@ -108,10 +108,6 @@
 * [03 Notebook Simple WordCount](https://nbviewer.jupyter.org/github/marilynwaldman/unstructuredNotebooks/blob/master/work/SparkRdds/03_Notebook_Simple_WordCount.ipynb)
 * [04 Notebook WordCount](https://nbviewer.jupyter.org/github/marilynwaldman/unstructuredNotebooks/blob/master/work/SparkRdds/04_Notebook_WordCount_Again.ipynb)
 
-## Unix Philosophy
-
-* [Kafka, Samza, and the Unix philosophy of distributed data](unix-philosophy/kafka-samza-and-the-unix-philosophy-of-distributed-data.md)
-
 ## Kafka
 
 * [Architecture](kafka/architecture.md)
@@ -120,6 +116,10 @@
 * [Confluent - Making Sense of Stream Processing](kafka/making-sense-of-stream-processing.md)
 * [Oracle - Introduction to Steam Processing](kafka/oracle-introduction-to-steam-processing.md)
 * [IBM - An introduction to Kafka](kafka/ibm-an-introduction-to-kafka.md)
+
+## Unix Philosophy
+
+* [Kafka, Samza, and the Unix philosophy of distributed data](unix-philosophy/kafka-samza-and-the-unix-philosophy-of-distributed-data.md)
 
 ## testit
 
