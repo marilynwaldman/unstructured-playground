@@ -1,4 +1,4 @@
-# Spark RDDs
+# Programming with RDDs
 
 Transformations
 

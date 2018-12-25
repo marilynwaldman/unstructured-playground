@@ -99,8 +99,14 @@
 
 ## Spark
 
-* [Install Spark](spark/install-spark.md)
-* [Spark RDDs](spark/spark-rdds.md)
+* [Introduction to Apache Spark](spark/introduction-to-apache-spark.md)
+* [Installation and Getting Started](spark/install-spark.md)
+* [Programming with RDDs](spark/spark-rdds.md)
+* [Working with Key Value Pairs](spark/working-with-key-value-pairs.md)
+* [Loading Data from Various Sources](spark/loading-data-from-various-sources.md)
+* [Spark SQL](spark/spark-sql.md)
+* [Spark DataFrames](spark/spark-dataframes.md)
+* [Spark Streaming](spark/spark-streaming.md)
 
 ## Spark Notebooks
 
