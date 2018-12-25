@@ -100,6 +100,7 @@
 ## Spark
 
 * [Introduction to Apache Spark](spark/introduction-to-apache-spark.md)
+* [Architecture](spark/architecture.md)
 * [Installation and Getting Started](spark/install-spark.md)
 * [Programming with RDDs](spark/spark-rdds.md)
 * [Working with Key Value Pairs](spark/working-with-key-value-pairs.md)
