@@ -116,7 +116,9 @@
 
 ## Kafka
 
-* [Architecture](kafka/architecture.md)
+* [Introduction](kafka/architecture.md)
+* [Architecture](kafka/architecture-1.md)
+* [APIs](kafka/apis.md)
 * [Lab - Confluent on the VM](kafka/lab-confluent-on-the-vm.md)
 * [Lab - bare bones Kafka](kafka/lab-bare-bones-kafka.md)
 * [Confluent - Making Sense of Stream Processing](kafka/making-sense-of-stream-processing.md)
