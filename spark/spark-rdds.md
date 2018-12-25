@@ -1,26 +1,10 @@
 # Programming with RDDs
 
-Transformations
-
-* map
-* filter
-* flatmap
-* union
-* distinct
-* groupByKey
-* reduceByKey
-* sortByKey
-* join
-
-Actions
-
-* reduce
-* collect
-* count
-* first
-* take
-* takeOrdered
-* saveAsTextFile
-
-Working with Key Value Pairs
+* RDD Introduction
+* Creating RDDs
+* RDD Operations 
+* Transformations 
+* Actions
+* Lazy Evaluation
+* Passing Functions to Spark 
 
