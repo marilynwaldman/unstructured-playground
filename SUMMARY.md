@@ -101,6 +101,10 @@
 
 * [Install Spark](spark/install-spark.md)
 
+## Spark Rdds
+
+* [Spark RDDs](spark-rdds/spark-rdds.md)
+
 ## Unix Philosophy
 
 * [Kafka, Samza, and the Unix philosophy of distributed data](unix-philosophy/kafka-samza-and-the-unix-philosophy-of-distributed-data.md)
