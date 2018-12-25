@@ -14,8 +14,6 @@ Transformations
 
 Actions
 
-
-
 * reduce
 * collect
 * count
@@ -23,4 +21,6 @@ Actions
 * take
 * takeOrdered
 * saveAsTextFile
+
+Working with Key Value Pairs
 
