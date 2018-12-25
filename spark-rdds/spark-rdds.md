@@ -14,6 +14,8 @@ Transformations
 
 Actions
 
+
+
 * reduce
 * collect
 * count
@@ -21,7 +23,4 @@ Actions
 * take
 * takeOrdered
 * saveAsTextFile
-
-  |  |
-  | :--- |
 
