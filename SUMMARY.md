@@ -38,11 +38,7 @@
 
 ## Functional Programming
 
-* [Python Lambda Expressions and Functional Programming](functional-programming/untitled/README.md)
-  * [01 Notebook Lambda Expressions](https://nbviewer.jupyter.org/github/marilynwaldman/unstructuredNotebooks/blob/master/work/Functional%20Programming%20in%20Python/01_LambdaExpressions.ipynb)
-  * [02 Notebook Map Abstraction](https://nbviewer.jupyter.org/github/marilynwaldman/unstructuredNotebooks/blob/master/work/Functional%20Programming%20in%20Python/02_FunctionalProgramming%20.ipynb)
-  * [03 Notebook Filter Abstraction](https://nbviewer.jupyter.org/github/marilynwaldman/unstructuredNotebooks/blob/master/work/Functional%20Programming%20in%20Python/03_FunctionalProgramming%20-%20Filter.ipynb)
-  * [04 Notebook Reduce Abstraction](https://nbviewer.jupyter.org/github/marilynwaldman/unstructuredNotebooks/blob/master/work/Functional%20Programming%20in%20Python/04_FunctionalProgramming%20-%20Reduce.ipynb)
+* [Funtional Programming](functional-programming/untitled.md)
 
 ## Spark
 
@@ -53,12 +49,6 @@
   * [Spark SQL](spark/introduction-to-apache-spark/spark-sql.md)
   * [Spark DataFrames](spark/introduction-to-apache-spark/spark-dataframes.md)
   * [Spark Streaming](spark/introduction-to-apache-spark/spark-streaming.md)
-
-## Spark Notebooks
-
-* [02 Notebook Spark Rdds](https://nbviewer.jupyter.org/github/marilynwaldman/unstructuredNotebooks/blob/master/work/SparkRdds/02_Notebook_Rdds.ipynb)
-* [03 Notebook Simple WordCount](https://nbviewer.jupyter.org/github/marilynwaldman/unstructuredNotebooks/blob/master/work/SparkRdds/03_Notebook_Simple_WordCount.ipynb)
-* [04 Notebook WordCount](https://nbviewer.jupyter.org/github/marilynwaldman/unstructuredNotebooks/blob/master/work/SparkRdds/04_Notebook_WordCount_Again.ipynb)
 
 ## Kafka
 
