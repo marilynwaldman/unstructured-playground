@@ -8,3 +8,8 @@
 * Lazy Evaluation
 * Passing Functions to Spark 
 
+#### Basic RDDS
+
+* slides
+* notebook
+
