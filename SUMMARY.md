@@ -16,74 +16,23 @@
 
 ## Schedule
 
-## January 14
-
-* [January 14](january-14/lecture.md)
-* [Homework](https://github.com/sstirlin/MSBX5420Spring2019/tree/master/0104bash)
-
-## January 21
-
-* [January 21](january-21/lecture.md)
-
-## January 28
-
-* [January 28](january-28/lecture.md)
-
-## February 4
-
-* [February 4](february-4/february-4.md)
-
-## February 11
-
-* [February 11](february-11/february-11.md)
-
-## February 18
-
-* [February 18](february-18/february-18.md)
-
-## February 25
-
-* [February 25](february-25/february-25.md)
-
-## March 4
-
-* [March 4](march-4/march-4.md)
-
-## March 11
-
-* [March 11](march-11/march-11.md)
-
-## March 18
-
-* [March 18](march-18/march-18.md)
-
-## March 25
-
-* [March 25](march-25/march-25.md)
-
-## April 1
-
-* [April 1](april-1/april-1.md)
-
-## April 8
-
-* [April 8](april-8/april-8.md)
-
-## April 15
-
-* [April 15](april-15/april-15.md)
-
-## April 22
-
-* [April 22](april-22/april-22.md)
-
-## April 29
-
-* [April 29](april-29/april-29.md)
-
-## Final
-
-* [Final](final/final.md)
+* [Course Schedule](schedule-1/course-schedule/README.md)
+  * [January 14](schedule-1/course-schedule/lecture.md)
+  * [January 21](schedule-1/course-schedule/lecture-1.md)
+  * [January 28](schedule-1/course-schedule/january-28.md)
+  * [February 4](schedule-1/course-schedule/february-4.md)
+  * [Feruary 11](schedule-1/course-schedule/feruary-11.md)
+  * [February 18](schedule-1/course-schedule/february-18.md)
+  * [February 25](schedule-1/course-schedule/february-25.md)
+  * [March 11](schedule-1/course-schedule/march-11.md)
+  * [March 18](schedule-1/course-schedule/march-18.md)
+  * [March 25](schedule-1/course-schedule/march-25.md)
+  * [April 1](schedule-1/course-schedule/april-1.md)
+  * [April 8](schedule-1/course-schedule/april-8.md)
+  * [April 15](schedule-1/course-schedule/april-15.md)
+  * [April 22](schedule-1/course-schedule/april-22.md)
+  * [April 29](schedule-1/course-schedule/april-29.md)
+  * [Final](schedule-1/course-schedule/final.md)
 
 ## Installation
 
