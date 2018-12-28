@@ -1,4 +1,4 @@
-# Funtional Programming
+# Functional Programming
 
 * [Introduction](https://github.com/marilynwaldman/course/blob/master/Functional%20Programming%20/01-LambdaExpressions.ipynb)
 * [Map](https://github.com/marilynwaldman/course/blob/master/Functional%20Programming%20/02-FunctionalProgramming%20-%20Map%20.ipynb)
@@ -6,6 +6,4 @@
 * [Filter](https://github.com/marilynwaldman/course/blob/master/Functional%20Programming%20/04_FunctionalProgramming%20-%20Reduce.ipynb)
 
 
-
-* Actions
 

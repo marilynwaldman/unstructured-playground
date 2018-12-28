@@ -38,7 +38,7 @@
 
 ## Functional Programming
 
-* [Funtional Programming](functional-programming/untitled.md)
+* [Functional Programming](functional-programming/untitled.md)
 
 ## Spark
 
