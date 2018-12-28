@@ -14,6 +14,8 @@
 * [Discrimination and Harassment](discrimination-and-harassment.md)
 * [0102courseoverview](0102courseoverview.md)
 
+## Schedule
+
 ## January 14
 
 * [January 14](january-14/lecture.md)
@@ -141,6 +143,4 @@
 ## Spark Resources
 
 * [Mastering Apache Spark 2.3.2](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)
-
-## Schedule
 
