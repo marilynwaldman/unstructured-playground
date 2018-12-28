@@ -49,6 +49,8 @@
   * [Spark SQL](spark/introduction-to-apache-spark/spark-sql.md)
   * [Spark DataFrames](spark/introduction-to-apache-spark/spark-dataframes.md)
   * [Spark Streaming](spark/introduction-to-apache-spark/spark-streaming.md)
+* [Resources](spark/resources/README.md)
+  * [Mastering Apache Spark 2.3.2](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)
 
 ## Kafka
 
@@ -71,10 +73,4 @@
 ## testit
 
 * [Netcat with All Spark Notebooks](testit/untitled.md)
-
-## Jupyter
-
-## Spark Resources
-
-* [Mastering Apache Spark 2.3.2](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)
 
