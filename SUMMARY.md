@@ -58,6 +58,7 @@
   * [Installation and Getting Started](kafka/architecture/installation-and-getting-started.md)
   * [Lab - bare bones Kafka](kafka/architecture/lab-bare-bones-kafka.md)
   * [Lab - Confluent on the VM](kafka/architecture/lab-confluent-on-the-vm.md)
+* [Resources](kafka/resources.md)
 * [Confluent - Making Sense of Stream Processing](kafka/making-sense-of-stream-processing.md)
 * [Oracle - Introduction to Steam Processing](kafka/oracle-introduction-to-steam-processing.md)
 * [IBM - An introduction to Kafka](kafka/ibm-an-introduction-to-kafka.md)
