@@ -1,6 +1,8 @@
 # Spark DataFrames
 
-* * Getting Started
+
+
+* Getting Started
 * Creating DataFrames
 * Operations on DataFrames
 * Running SQL Queries
