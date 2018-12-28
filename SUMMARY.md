@@ -58,10 +58,11 @@
   * [Installation and Getting Started](kafka/architecture/installation-and-getting-started.md)
   * [Lab - bare bones Kafka](kafka/architecture/lab-bare-bones-kafka.md)
   * [Lab - Confluent on the VM](kafka/architecture/lab-confluent-on-the-vm.md)
-* [Oracle - Introduction to Steam Processing](kafka/oracle-introduction-to-steam-processing.md)
-* [Confluent - Making Sense of Stream Processing](kafka/making-sense-of-stream-processing.md)
-* [IBM - An introduction to Kafka](kafka/ibm-an-introduction-to-kafka.md)
-* [Kafka:  The Definintive Guide](kafka/kafka-the-definintive-guide.md)
+* [Resources](kafka/resources/README.md)
+  * [Oracle - Introduction to Steam Processing](kafka/resources/oracle-introduction-to-steam-processing.md)
+  * [IBM - An introduction to Kafka](kafka/resources/ibm-an-introduction-to-kafka.md)
+  * [Confluent - Making Sense of Stream Processing](kafka/resources/making-sense-of-stream-processing.md)
+  * [Kafka:  The Definintive Guide](kafka/resources/kafka-the-definintive-guide.md)
 
 ## Unix Philosophy
 
