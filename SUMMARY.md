@@ -52,12 +52,12 @@
 
 ## Kafka
 
-* [Introduction](kafka/architecture.md)
-* [Architecture](kafka/architecture-1.md)
-* [APIs](kafka/apis.md)
-* [Installation and Getting Started](kafka/installation-and-getting-started.md)
-* [Lab - Confluent on the VM](kafka/lab-confluent-on-the-vm.md)
-* [Lab - bare bones Kafka](kafka/lab-bare-bones-kafka.md)
+* [Introduction to Kafka](kafka/architecture/README.md)
+  * [Architecture](kafka/architecture/architecture-1.md)
+  * [APIs](kafka/architecture/apis.md)
+  * [Installation and Getting Started](kafka/architecture/installation-and-getting-started.md)
+  * [Lab - bare bones Kafka](kafka/architecture/lab-bare-bones-kafka.md)
+  * [Lab - Confluent on the VM](kafka/architecture/lab-confluent-on-the-vm.md)
 * [Confluent - Making Sense of Stream Processing](kafka/making-sense-of-stream-processing.md)
 * [Oracle - Introduction to Steam Processing](kafka/oracle-introduction-to-steam-processing.md)
 * [IBM - An introduction to Kafka](kafka/ibm-an-introduction-to-kafka.md)
