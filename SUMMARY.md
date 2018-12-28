@@ -1,7 +1,7 @@
 # Table of contents
 
 * [MSBX 5420 - Spring 2019](README.md)
-* [Course Description](course-description.md)
+* [Course Outline](course-description.md)
 * [Course Objectives](course-objectives.md)
 * [Course Materials](course-materials.md)
 * [Grading](grading.md)

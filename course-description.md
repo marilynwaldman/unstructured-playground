@@ -1,4 +1,4 @@
-# Course Description
+# Course Outline
 
 In this course we will study how to store, process, and extract insights from _unstructured data_. For us, unstructured data is any data that cannot be directly queried using SQL. It arises in several situations:
 
