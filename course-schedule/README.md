@@ -1,2 +1,2 @@
-# Course Schedule
+# Schedule
 

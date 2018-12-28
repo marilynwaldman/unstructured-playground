@@ -6,7 +6,7 @@
 * [Course Materials](course-materials.md)
 * [Grading](grading.md)
 * [Homework](homework.md)
-* [Course Schedule](course-schedule/README.md)
+* [Schedule](course-schedule/README.md)
   * [January 14](course-schedule/lecture.md)
   * [January 21](course-schedule/lecture-1.md)
   * [January 28](course-schedule/january-28.md)
