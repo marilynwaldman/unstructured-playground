@@ -46,15 +46,13 @@
 
 ## Spark
 
-* [Introduction to Apache Spark](spark/introduction-to-apache-spark.md)
-* [Architecture](spark/architecture.md)
-* [Installation and Getting Started](spark/install-spark.md)
-* [Programming with RDDs](spark/spark-rdds.md)
-* [Working with Key Value Pairs](spark/working-with-key-value-pairs.md)
-* [Loading Data from Various Sources](spark/loading-data-from-various-sources.md)
-* [Spark SQL](spark/spark-sql.md)
-* [Spark DataFrames](spark/spark-dataframes.md)
-* [Spark Streaming](spark/spark-streaming.md)
+* [Introduction to Apache Spark](spark/introduction-to-apache-spark/README.md)
+  * [Architecture](spark/introduction-to-apache-spark/architecture.md)
+  * [Installation and Getting Started](spark/introduction-to-apache-spark/install-spark.md)
+  * [Programming with RDDs](spark/introduction-to-apache-spark/spark-rdds.md)
+  * [Spark SQL](spark/introduction-to-apache-spark/spark-sql.md)
+  * [Spark DataFrames](spark/introduction-to-apache-spark/spark-dataframes.md)
+  * [Spark Streaming](spark/introduction-to-apache-spark/spark-streaming.md)
 
 ## Spark Notebooks
 
