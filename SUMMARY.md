@@ -36,11 +36,11 @@
     * [Confluent - Making Sense of Stream Processing](architecture/resources/making-sense-of-stream-processing.md)
     * [Kafka:  The Definintive Guide](architecture/resources/kafka-the-definintive-guide.md)
     * [Kafka, Samza, and the Unix philosophy of distributed data](architecture/resources/kafka-samza-and-the-unix-philosophy-of-distributed-data.md)
+  * [Netcat with All Spark Notebooks](architecture/untitled.md)
 
 ## Installation
 
 * [Install VirtualBox on Mac](installation/test-group.md)
 * [Install Vagrant on Mac](installation/install-vagrant-on-mac.md)
 * [Start VM on MAC](installation/start-vm-on-mac.md)
-* [Netcat with All Spark Notebooks](installation/untitled.md)
 
