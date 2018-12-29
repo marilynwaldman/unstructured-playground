@@ -30,7 +30,16 @@
   * [Policy Regarding Religious Observances](course-information/policy-regarding-religious-observances.md)
 * [Homework](homework.md)
 * [Functional Programming](untitled.md)
-* [Apache Spark Ecosystem](apache-spark-ecosystem.md)
+* [Apache Spark Ecosystem](apache-spark-ecosystem/README.md)
+  * [Introduction to Apache Spark](apache-spark-ecosystem/introduction-to-apache-spark/README.md)
+    * [Architecture](apache-spark-ecosystem/introduction-to-apache-spark/architecture.md)
+    * [Installation and Getting Started](apache-spark-ecosystem/introduction-to-apache-spark/install-spark.md)
+    * [Programming with RDDs](apache-spark-ecosystem/introduction-to-apache-spark/spark-rdds.md)
+    * [Spark SQL](apache-spark-ecosystem/introduction-to-apache-spark/spark-sql.md)
+    * [Spark DataFrames](apache-spark-ecosystem/introduction-to-apache-spark/spark-dataframes.md)
+    * [Spark Streaming](apache-spark-ecosystem/introduction-to-apache-spark/spark-streaming.md)
+  * [Resources](apache-spark-ecosystem/resources/README.md)
+    * [Mastering Apache Spark 2.3.2](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)
 
 ## Installation
 
@@ -41,16 +50,6 @@
 ## Functional Programming
 
 ## Spark
-
-* [Introduction to Apache Spark](spark/introduction-to-apache-spark/README.md)
-  * [Architecture](spark/introduction-to-apache-spark/architecture.md)
-  * [Installation and Getting Started](spark/introduction-to-apache-spark/install-spark.md)
-  * [Programming with RDDs](spark/introduction-to-apache-spark/spark-rdds.md)
-  * [Spark SQL](spark/introduction-to-apache-spark/spark-sql.md)
-  * [Spark DataFrames](spark/introduction-to-apache-spark/spark-dataframes.md)
-  * [Spark Streaming](spark/introduction-to-apache-spark/spark-streaming.md)
-* [Resources](spark/resources/README.md)
-  * [Mastering Apache Spark 2.3.2](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)
 
 ## Kafka
 
