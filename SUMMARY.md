@@ -40,7 +40,7 @@
     * [Spark Streaming](apache-spark-ecosystem/introduction-to-apache-spark/spark-streaming.md)
   * [Resources](apache-spark-ecosystem/resources/README.md)
     * [Mastering Apache Spark 2.3.2](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)
-* [Introduction to Kafka](architecture/README.md)
+* [Apache Kafka](architecture/README.md)
   * [Architecture](architecture/architecture-1.md)
   * [APIs](architecture/apis.md)
   * [Installation and Getting Started](architecture/installation-and-getting-started.md)
