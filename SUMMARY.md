@@ -40,12 +40,12 @@
     * [Spark Streaming](apache-spark-ecosystem/introduction-to-apache-spark/spark-streaming.md)
   * [Resources](apache-spark-ecosystem/resources/README.md)
     * [Mastering Apache Spark 2.3.2](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)
-  * [Introduction to Kafka](apache-spark-ecosystem/architecture/README.md)
-    * [Architecture](apache-spark-ecosystem/architecture/architecture-1.md)
-    * [APIs](apache-spark-ecosystem/architecture/apis.md)
-    * [Installation and Getting Started](apache-spark-ecosystem/architecture/installation-and-getting-started.md)
-    * [Lab - bare bones Kafka](apache-spark-ecosystem/architecture/lab-bare-bones-kafka.md)
-    * [Lab - Confluent on the VM](apache-spark-ecosystem/architecture/lab-confluent-on-the-vm.md)
+* [Introduction to Kafka](architecture/README.md)
+  * [Architecture](architecture/architecture-1.md)
+  * [APIs](architecture/apis.md)
+  * [Installation and Getting Started](architecture/installation-and-getting-started.md)
+  * [Lab - bare bones Kafka](architecture/lab-bare-bones-kafka.md)
+  * [Lab - Confluent on the VM](architecture/lab-confluent-on-the-vm.md)
 
 ## Installation
 
