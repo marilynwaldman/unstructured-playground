@@ -29,7 +29,8 @@
     * [Final](course-information/course-schedule/final.md)
   * [Policy Regarding Religious Observances](course-information/policy-regarding-religious-observances.md)
 * [Homework](homework.md)
-* [0102courseoverview](0102courseoverview.md)
+* [Functional Programming](untitled.md)
+* [Apache Spark Ecosystem](apache-spark-ecosystem.md)
 
 ## Installation
 
@@ -38,8 +39,6 @@
 * [Start VM on MAC](installation/start-vm-on-mac.md)
 
 ## Functional Programming
-
-* [Functional Programming](functional-programming/untitled.md)
 
 ## Spark
 
