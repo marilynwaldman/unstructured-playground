@@ -40,6 +40,12 @@
     * [Spark Streaming](apache-spark-ecosystem/introduction-to-apache-spark/spark-streaming.md)
   * [Resources](apache-spark-ecosystem/resources/README.md)
     * [Mastering Apache Spark 2.3.2](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)
+  * [Introduction to Kafka](apache-spark-ecosystem/architecture/README.md)
+    * [Architecture](apache-spark-ecosystem/architecture/architecture-1.md)
+    * [APIs](apache-spark-ecosystem/architecture/apis.md)
+    * [Installation and Getting Started](apache-spark-ecosystem/architecture/installation-and-getting-started.md)
+    * [Lab - bare bones Kafka](apache-spark-ecosystem/architecture/lab-bare-bones-kafka.md)
+    * [Lab - Confluent on the VM](apache-spark-ecosystem/architecture/lab-confluent-on-the-vm.md)
 
 ## Installation
 
@@ -47,18 +53,8 @@
 * [Install Vagrant on Mac](installation/install-vagrant-on-mac.md)
 * [Start VM on MAC](installation/start-vm-on-mac.md)
 
-## Functional Programming
-
-## Spark
-
 ## Kafka
 
-* [Introduction to Kafka](kafka/architecture/README.md)
-  * [Architecture](kafka/architecture/architecture-1.md)
-  * [APIs](kafka/architecture/apis.md)
-  * [Installation and Getting Started](kafka/architecture/installation-and-getting-started.md)
-  * [Lab - bare bones Kafka](kafka/architecture/lab-bare-bones-kafka.md)
-  * [Lab - Confluent on the VM](kafka/architecture/lab-confluent-on-the-vm.md)
 * [Resources](kafka/resources/README.md)
   * [Oracle - Introduction to Steam Processing](kafka/resources/oracle-introduction-to-steam-processing.md)
   * [IBM - An introduction to Kafka](kafka/resources/ibm-an-introduction-to-kafka.md)
