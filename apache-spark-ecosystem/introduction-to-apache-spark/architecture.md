@@ -2,7 +2,7 @@
 
 credit : Apache Spark
 
-## Cluster Mode Overview <a id="cluster-mode-overview"></a>
+## Overview <a id="cluster-mode-overview"></a>
 
 This document gives a short overview of how Spark runs on clusters, to make it easier to understand the components involved. Read through the [application submission guide](https://spark.apache.org/docs/latest/submitting-applications.html) to learn about launching applications on a cluster.
 
