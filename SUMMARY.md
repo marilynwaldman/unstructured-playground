@@ -58,10 +58,5 @@
 * [Install VirtualBox on Mac](installation/test-group.md)
 * [Install Vagrant on Mac](installation/install-vagrant-on-mac.md)
 * [Start VM on MAC](installation/start-vm-on-mac.md)
-
-## Unix Philosophy
-
-## testit
-
-* [Netcat with All Spark Notebooks](testit/untitled.md)
+* [Netcat with All Spark Notebooks](installation/untitled.md)
 
