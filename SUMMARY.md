@@ -31,7 +31,7 @@
 * [Homework](homework.md)
 * [Functional Programming](untitled.md)
 * [Apache Spark Ecosystem](apache-spark-ecosystem/README.md)
-  * [Introduction to Apache Spark](apache-spark-ecosystem/introduction-to-apache-spark/README.md)
+  * [Apache Spark](apache-spark-ecosystem/introduction-to-apache-spark/README.md)
     * [Architecture](apache-spark-ecosystem/introduction-to-apache-spark/architecture.md)
     * [Installation and Getting Started](apache-spark-ecosystem/introduction-to-apache-spark/install-spark.md)
     * [Programming with RDDs](apache-spark-ecosystem/introduction-to-apache-spark/spark-rdds.md)

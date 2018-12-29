@@ -1,2 +1,2 @@
-# Introduction to Apache Spark
+# Apache Spark
 
