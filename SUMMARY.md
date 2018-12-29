@@ -46,6 +46,12 @@
   * [Installation and Getting Started](architecture/installation-and-getting-started.md)
   * [Lab - bare bones Kafka](architecture/lab-bare-bones-kafka.md)
   * [Lab - Confluent on the VM](architecture/lab-confluent-on-the-vm.md)
+* [Resources](resources/README.md)
+  * [Oracle - Introduction to Steam Processing](resources/oracle-introduction-to-steam-processing.md)
+  * [IBM - An introduction to Kafka](resources/ibm-an-introduction-to-kafka.md)
+  * [Confluent - Making Sense of Stream Processing](resources/making-sense-of-stream-processing.md)
+  * [Kafka:  The Definintive Guide](resources/kafka-the-definintive-guide.md)
+  * [Kafka, Samza, and the Unix philosophy of distributed data](resources/kafka-samza-and-the-unix-philosophy-of-distributed-data.md)
 
 ## Installation
 
@@ -53,17 +59,7 @@
 * [Install Vagrant on Mac](installation/install-vagrant-on-mac.md)
 * [Start VM on MAC](installation/start-vm-on-mac.md)
 
-## Kafka
-
-* [Resources](kafka/resources/README.md)
-  * [Oracle - Introduction to Steam Processing](kafka/resources/oracle-introduction-to-steam-processing.md)
-  * [IBM - An introduction to Kafka](kafka/resources/ibm-an-introduction-to-kafka.md)
-  * [Confluent - Making Sense of Stream Processing](kafka/resources/making-sense-of-stream-processing.md)
-  * [Kafka:  The Definintive Guide](kafka/resources/kafka-the-definintive-guide.md)
-
 ## Unix Philosophy
-
-* [Kafka, Samza, and the Unix philosophy of distributed data](unix-philosophy/kafka-samza-and-the-unix-philosophy-of-distributed-data.md)
 
 ## testit
 
