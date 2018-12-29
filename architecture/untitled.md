@@ -4,8 +4,6 @@ description: Getting netcat to work with dockerized Jupyter Notebooks
 
 # Netcat with All Spark Notebooks
 
-You have to set up a network to get the notebook to connect to netcat. 
-
 Stop all docker containers
 
 ```text
