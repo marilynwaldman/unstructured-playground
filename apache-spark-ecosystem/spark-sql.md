@@ -4,7 +4,7 @@ description: Spark SQL
 
 # Spark SQL
 
-![Spark SQL](../../.gitbook/assets/screen-shot-2018-12-28-at-7.32.02-pm.png)
+![Spark SQL](../.gitbook/assets/screen-shot-2018-12-28-at-7.32.02-pm.png)
 
 * [slides](https://github.com/marilynwaldman/course/blob/master/spark/05-SparkSQL/01-IngestSparkSQL.pdf)
 * [notebook](https://github.com/marilynwaldman/course/blob/master/spark/05-SparkSQL/01-IngestSparkSQL.ipynb)
