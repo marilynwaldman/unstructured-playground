@@ -29,6 +29,7 @@
     * [Final](course-information/course-schedule/final.md)
   * [Policy Regarding Religious Observances](course-information/policy-regarding-religious-observances.md)
 * [Homework](homework.md)
+* [Hadoop and HDFS](hadoop-and-hdfs.md)
 * [Functional Programming](untitled.md)
 * [Apache Spark Ecosystem](apache-spark-ecosystem/README.md)
   * [Apache Spark](apache-spark-ecosystem/introduction-to-apache-spark/README.md)
