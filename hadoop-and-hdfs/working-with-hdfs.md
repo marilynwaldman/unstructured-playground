@@ -34,6 +34,11 @@ export PATH=$PATH:$HADOOP_PREFIX/bin
 
 ### HDFS OPERATIONS
 
+1. Create an HDFS directory
+2. Write a file to HDFS
+3. Cat the HDFS file
+4. Copy the file from HDFS to your local file system
+
 
 
 ```text
