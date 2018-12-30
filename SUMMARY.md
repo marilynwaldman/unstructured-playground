@@ -37,7 +37,6 @@
     * [Kafka:  The Definintive Guide](architecture/resources/kafka-the-definintive-guide.md)
     * [Kafka, Samza, and the Unix philosophy of distributed data](architecture/resources/kafka-samza-and-the-unix-philosophy-of-distributed-data.md)
   * [Netcat with All Spark Notebooks](architecture/untitled.md)
-* [Test](untitled-1.md)
 
 ## Installation
 
