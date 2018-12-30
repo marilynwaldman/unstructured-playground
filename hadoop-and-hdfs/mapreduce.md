@@ -8,10 +8,10 @@
 
 ### Use Cases
 
-*  Distributed   sort 
-* Distributed   search 
-*  Web‐link   graph   traversal 
-*  Machine   learning
+* Distributed    sort 
+* Distributed    search 
+* Web‐link    graph    traversal 
+* Machine    learning
 
 ### Workflow
 
