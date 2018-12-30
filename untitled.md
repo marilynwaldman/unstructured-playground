@@ -10,7 +10,7 @@
 
 ## Slides
 
-* [Why Functional Programming?](https://en.wikipedia.org/wiki/Functional_programming)
+* [Why Functional Programming?](https://github.com/marilynwaldman/course/blob/master/Functional%20Programming%20/00-FP-SideEffects.pdf)
 * [Lambda Expressions](https://github.com/marilynwaldman/course/blob/master/Functional%20Programming%20/01-LambdaExpressions.pdf)
 * [Map](https://github.com/marilynwaldman/course/blob/master/Functional%20Programming%20/02-FunctionalProgramming%20-%20Map.pdf)
 * [Reduce](https://github.com/marilynwaldman/course/blob/master/Functional%20Programming%20/04-FunctionalProgramming%20-%20Reduce.pdf)
