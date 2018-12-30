@@ -22,11 +22,17 @@ docker stop $(docker ps -aq)
 sudo docker pull  jupyter/all-spark-notebook
 ```
 
+### Remove old spark containers
+
+```text
+docker rm spark
+```
+
 ### Run Spark
 
 ```text
 docker run -d --name spark  -p 8888:8888  \
-    -v $HOME/python-spark-streaming/work:/home/jovyan/work:rw  \
+    -v $HOME/unstructuredNotebooks/work:/home/jovyan/work:rw  \
      jupyter/all-spark-notebook \
      start-notebook.sh --NotebookApp.token='' 
 
@@ -49,13 +55,7 @@ docker stop spark
 ### Restart Spark
 
 ```text
-docker stop spark
-
-docker run -d -name spark  -p 8888:8888  \
-    -v $HOME/python-spark-streaming/work:/home/jovyan/work:rw  \
-     jupyter/all-spark-notebook \
-    start-notebook.sh --NotebookApp.token='' St
-
+docker start spark
 ```
 
 [https://github.com/marilynwaldman/cuUnstructured/tree/master/0300SparkInstall](https://github.com/marilynwaldman/cuUnstructured/tree/master/0300SparkInstall)
