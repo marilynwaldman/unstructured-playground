@@ -2,7 +2,9 @@
 
 ## Introduction
 
-> MapReduce  is  a  software  framework  for  processing \(large1\)  data sets  in  a  distributed  fashion  over   several machines.    The  core  idea  behind  MapReduce  is  mapping  your  data set  into  a  collection  of   pairs  and  then  reducing  over  all  pairs with  the  same  key.
+> "MapReduce  is  a  software  framework  for  processing \(large1\)  data sets  in  a  distributed  fashion  over   several machines.    The  core  idea  behind  MapReduce  is  mapping  your  data set  into  a  collection  of   pairs  and  then  reducing  over  all  pairs with  the  same  key."
+
+[Diana  MacLean  for  CS448G, 2011](https://hci.stanford.edu/courses/cs448g/a2/files/map_reduce_tutorial.pdf)
 
 ### Use Cases
 
@@ -14,6 +16,4 @@
 ### Workflow
 
 ![](../.gitbook/assets/screen-shot-2018-12-29-at-10.16.14-pm.png)
-
-[Stanford Reference](https://hci.stanford.edu/courses/cs448g/a2/files/map_reduce_tutorial.pdf)
 
