@@ -32,6 +32,21 @@ bash-4.18
 export PATH=$PATH:$HADOOP_PREFIX/bin 
 ```
 
+#### Create a data directory
+
+```text
+mddir data
+cd data
+```
+
+#### Create a csv file
+
+```text
+echo "Mary,Smith"   >> people.csv
+echo "William,Jones" >> people.csv
+cat people.csv
+```
+
 ### HDFS OPERATIONS
 
 1. Create an HDFS directory
@@ -39,20 +54,36 @@ export PATH=$PATH:$HADOOP_PREFIX/bin
 3. Cat the HDFS file
 4. Copy the file from HDFS to your local file system
 
-
+#### Make a HDFS directory
 
 ```text
-cd $HADOOP_PREFIX
-# run the mapreduce
-bin/hadoop jar share/hadoop/mapreduce/hadoop-mapreduce-examples-2.7.1.jar grep input output 'dfs[a-z.]+'
-
-# check the output
-bin/hdfs dfs -cat output/*
+hdfs dfs -mkdir input
 ```
 
-#### Return to you home directory and list the local files in the Hadoop container
+#### Copy the people.csv file to HDFS
 
+```text
+hdfs dfs -put people.csv input
+```
 
+#### Examine people.csv on HDFS
+
+```text
+hdfs dfs -cat input/people.csv
+```
+
+#### Copy the HDFS file to your local file system
+
+```text
+hdfs dfs -get input/people.csv local_people.csv
+```
+
+#### List HDFS files
+
+```text
+hdfs dfs -ls
+hdfs dfs -ls input
+```
 
 #### 
 
