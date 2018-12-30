@@ -1,8 +1,12 @@
 # Spark DataFrames
 
+## Introduction
+
+![](../.gitbook/assets/screen-shot-2018-12-29-at-10.40.25-pm.png)
+
 A DataFrame is a _Dataset_ organized into named columns. It is conceptually equivalent to a table in a relational database or a data frame in R/Python, but with richer optimizations under the hood.
 
-Objectives
+### Objectives
 
 * Getting Started
 * Creating DataFrames
@@ -11,17 +15,17 @@ Objectives
 * Aggregations
 * Data Sources
 
-#### Creating DataFrames
+### Creating DataFrames
 
 * [slides](https://github.com/marilynwaldman/course/blob/master/spark/07-DataFrames/02-CreateDataFrames%20.pdf)
 * [notebook](https://github.com/marilynwaldman/course/blob/master/spark/07-DataFrames/02-CreateDataFrames.ipynb)
 
-#### Types and Operations on DataFrames
+### Types and Operations on DataFrames
 
 * [slides](https://github.com/marilynwaldman/course/blob/master/spark/07-DataFrames/04-TypesAndOperations.pdf)
 * [notebook](https://github.com/marilynwaldman/course/blob/master/spark/07-DataFrames/04-TypesAnOperations.ipynb)
 
-#### OrderBy, Aggregations and Join
+### OrderBy, Aggregations and Join
 
 * [slides](https://github.com/marilynwaldman/course/blob/master/spark/07-DataFrames/06-OrderBy-Agg-Join.pdf)
 * [notebook](https://github.com/marilynwaldman/course/blob/master/spark/07-DataFrames/06-OrderBy-Agg-Join.ipynb)
