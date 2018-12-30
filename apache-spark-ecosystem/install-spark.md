@@ -1,6 +1,6 @@
 # Installation and Getting Started
 
-## Install an run Spark from docker
+## Install and Run Spark from Docker
 
 ### Download course notebooks 
 
