@@ -28,7 +28,7 @@ sudo docker pull  jupyter/all-spark-notebook
 docker run -d -name spark  -p 8888:8888  \
     -v $HOME/python-spark-streaming/work:/home/jovyan/work:rw  \
      jupyter/all-spark-notebook \
-    start-notebook.sh --NotebookApp.token='' St
+    start-notebook.sh --NotebookApp.token='' 
 
 ```
 
