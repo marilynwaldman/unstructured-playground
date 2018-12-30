@@ -23,7 +23,7 @@ docker run -it sequenceiq/hadoop-docker:2.7.1 /etc/bootstrap.sh -bash
 After the docker image download and runs you will see  the bash prompt. You are now talking to the Hadoop container.
 
 ```text
-bash-4.18
+#bash-4.18
 ```
 
 #### Update $PATH
