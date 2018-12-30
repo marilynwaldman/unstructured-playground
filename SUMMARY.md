@@ -16,6 +16,7 @@
 * [Enviornment](enviornment.md)
 * [Hadoop Ecosystem](hadoop-and-hdfs/README.md)
   * [Working with HDFS](hadoop-and-hdfs/working-with-hdfs.md)
+  * [HDFS](hadoop-and-hdfs/hdfs.md)
   * [MapReduce](hadoop-and-hdfs/mapreduce.md)
   * [Hive](hadoop-and-hdfs/hive.md)
   * [Pig](hadoop-and-hdfs/pig.md)
