@@ -47,7 +47,7 @@ echo "William,Jones" >> people.csv
 cat people.csv
 ```
 
-### HDFS OPERATIONS
+### HDFS Operations
 
 1. Create an HDFS directory
 2. Write a file to HDFS
