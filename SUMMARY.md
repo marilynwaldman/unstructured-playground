@@ -27,7 +27,8 @@
   * [Programming with RDDs](apache-spark-ecosystem/spark-rdds.md)
   * [Spark SQL](apache-spark-ecosystem/spark-sql.md)
   * [Spark DataFrames](apache-spark-ecosystem/spark-dataframes.md)
-  * [Spark Streaming](apache-spark-ecosystem/spark-streaming.md)
+  * [Spark Streaming](apache-spark-ecosystem/spark-streaming/README.md)
+    * [Spark Streaming with TCP](apache-spark-ecosystem/spark-streaming/untitled.md)
   * [Resources](apache-spark-ecosystem/resources/README.md)
     * [Mastering Apache Spark 2.3.2](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)
 * [Apache Kafka](architecture/README.md)
@@ -42,7 +43,6 @@
     * [Confluent - Making Sense of Stream Processing](architecture/resources/making-sense-of-stream-processing.md)
     * [Kafka:  The Definintive Guide](architecture/resources/kafka-the-definintive-guide.md)
     * [Kafka, Samza, and the Unix philosophy of distributed data](architecture/resources/kafka-samza-and-the-unix-philosophy-of-distributed-data.md)
-  * [Netcat with All Spark Notebooks](architecture/untitled.md)
 * [ElasticSearch and Kabana](elasticsearch-and-kabana.md)
 
 ## Installation

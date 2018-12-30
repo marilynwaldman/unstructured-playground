@@ -2,7 +2,7 @@
 description: Getting netcat to work with dockerized Jupyter Notebooks
 ---
 
-# Netcat with All Spark Notebooks
+# Spark Streaming with TCP
 
 Stop all docker containers
 
