@@ -1,6 +1,6 @@
 # HDFS
 
-![](../.gitbook/assets/screen-shot-2018-12-29-at-11.20.55-pm.png)
+![](../../.gitbook/assets/screen-shot-2018-12-29-at-11.20.55-pm.png)
 
 ## Introduction
 
