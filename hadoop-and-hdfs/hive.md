@@ -1,6 +1,6 @@
 # Hive
 
-![](../.gitbook/assets/screen-shot-2018-12-29-at-11.00.27-pm.png)
+![](../.gitbook/assets/screen-shot-2018-12-29-at-11.00.27-pm%20%281%29.png)
 
 ## Introduction
 

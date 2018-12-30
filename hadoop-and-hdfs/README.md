@@ -4,6 +4,8 @@ description: Hadoop
 
 # Hadoop Ecosystem
 
+![](../.gitbook/assets/screen-shot-2018-12-29-at-11.00.27-pm.png)
+
 ## Introduction
 
 "The Apache™ Hadoop® project develops open-source software for reliable, scalable, distributed computing.
