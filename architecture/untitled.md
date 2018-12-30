@@ -24,7 +24,7 @@ Start a netcat container with the port to be shared
 docker run -it --rm --name nc --network testnet appropriate/nc -lk 5555
 ```
 
-Start Jupyter with the volume containing your notebooks
+Open a new terminal window and start Jupyter with the volume containing your notebooks
 
 ```text
 docker run -d --name streaming \
