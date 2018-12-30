@@ -18,12 +18,12 @@ At a high level, every Spark application consists of a _driver program_ that run
 * Lazy Evaluation
 * Passing Functions to Spark 
 
-### Basic RDDS
+### Basic RDDS - Slides and Notebooks
 
 * [slides](https://github.com/marilynwaldman/course/blob/master/spark/03-RDDs/01-BasicRdds.pdf)
 * [notebook](https://github.com/marilynwaldman/course/blob/master/spark/03-RDDs/01-BasicRdds.ipynb)
 
-### Paired RDDs - Key Value Computations
+### Paired RDDs - Slides and Notebooks
 
 * [slides](https://github.com/marilynwaldman/course/blob/master/spark/03-RDDs/03-KeyValueRdds.pdf)
 * [notebook](https://github.com/marilynwaldman/course/blob/master/spark/03-RDDs/03-KeyValueRdds.ipynb)
