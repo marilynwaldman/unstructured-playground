@@ -13,6 +13,7 @@
   * [Schedule](course-information/course-schedule.md)
   * [Policy Regarding Religious Observances](course-information/policy-regarding-religious-observances.md)
 * [Homework](homework.md)
+* [Enviornment](enviornment.md)
 * [Hadoop Ecosystem](hadoop-and-hdfs/README.md)
   * [Working with HDFS](hadoop-and-hdfs/working-with-hdfs.md)
   * [MapReduce](hadoop-and-hdfs/mapreduce.md)
