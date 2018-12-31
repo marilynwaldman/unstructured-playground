@@ -36,7 +36,6 @@
   * [Architecture](architecture/architecture-1.md)
   * [APIs](architecture/apis.md)
   * [Installation and Getting Started](architecture/installation-and-getting-started.md)
-  * [Lab - bare bones Kafka](architecture/lab-bare-bones-kafka.md)
   * [Lab - Confluent on the VM](architecture/lab-confluent-on-the-vm.md)
   * [Resources](architecture/resources/README.md)
     * [Oracle - Introduction to Steam Processing](architecture/resources/oracle-introduction-to-steam-processing.md)
