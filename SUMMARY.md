@@ -29,6 +29,7 @@
   * [Spark DataFrames](apache-spark-ecosystem/spark-dataframes.md)
   * [Spark Streaming](apache-spark-ecosystem/spark-streaming/README.md)
     * [Spark Streaming with TCP](apache-spark-ecosystem/spark-streaming/untitled.md)
+    * [Spark Streaming with Windows](apache-spark-ecosystem/spark-streaming/spark-streaming-with-windows.md)
   * [Resources](apache-spark-ecosystem/resources/README.md)
     * [Mastering Apache Spark 2.3.2](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)
 * [Apache Kafka](architecture/README.md)
