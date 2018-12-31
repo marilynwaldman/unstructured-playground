@@ -1,6 +1,10 @@
 # Apache Kafka
 
+## Introduction
 
+### slides
+
+[slides](https://github.com/marilynwaldman/course/blob/master/Kafka/00-Introduction.pdf)
 
 #### Apache Kafka® is a distributed streaming platform. What exactly does that mean?
 
