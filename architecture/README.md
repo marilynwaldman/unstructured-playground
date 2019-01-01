@@ -1,10 +1,10 @@
 # Apache Kafka
 
-## Introduction
-
 ### slides
 
 [slides](https://github.com/marilynwaldman/course/blob/master/Kafka/00-Introduction.pdf)
+
+## Introduction
 
 ![](../.gitbook/assets/screen-shot-2019-01-01-at-3.37.00-pm.png)
 
