@@ -37,7 +37,6 @@
   * [Resources](apache-spark-ecosystem/resources/README.md)
     * [Mastering Apache Spark 2.3.2](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)
 * [Apache Kafka](architecture/README.md)
-  * [Architecture](architecture/architecture-1.md)
   * [APIs](architecture/apis.md)
   * [Installation and Getting Started](architecture/installation-and-getting-started.md)
   * [Lab - Confluent on the VM](architecture/lab-confluent-on-the-vm.md)
