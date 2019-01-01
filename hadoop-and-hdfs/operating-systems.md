@@ -8,10 +8,6 @@ description: Introduction to Operating Systems for Data Analysts
 
 This section will cover the basic things you need to know about operating systems.  This includes:
 
-
-
-## Slides
-
 * File System  - local
 * Memory
 * Processes
