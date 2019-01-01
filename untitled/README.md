@@ -1,6 +1,6 @@
 # Functional Programming
 
-![](.gitbook/assets/screen-shot-2018-12-28-at-8.01.31-pm.png)
+![](../.gitbook/assets/screen-shot-2018-12-28-at-8.01.31-pm.png)
 
 ## Introduction
 
