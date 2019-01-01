@@ -58,7 +58,10 @@
 * [NumPy](http://www.numpy.org/)
 * [Matplotlib](https://matplotlib.org/)
 * [Scikit-Learn](https://scikit-learn.org/stable/)
-* [Apache Spark](https://spark.apache.org/)
+* [Apache Spark](reference/apache-spark/README.md)
+  * [Apache Spark](https://spark.apache.org/)
+  * [Apache Spark RDD Guide](https://spark.apache.org/docs/latest/rdd-programming-guide.html)
+  * [Apache Spark SQL and DataFrames](https://spark.apache.org/sql/)
 * [Apache Kafka](https://kafka.apache.org/)
 * [Apache ElasticSearch for Hadoop](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/reference.html)
 
