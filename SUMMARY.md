@@ -67,4 +67,9 @@
   * [Apache Kafka](https://kafka.apache.org/)
   * [Apache Kafka Streams](https://kafka.apache.org/documentation/streams/)
 * [Apache ElasticSearch for Hadoop](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/reference.html)
+* [Streaming](reference/streaming/README.md)
+  * [Streaming 101: The world beyond batch](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
+  * [Streaming 102: The world beyond batch](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102)
+  * [Apache Structured Streaming Programming Guide](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html)
+  * [Streaming SQL for Apache Kafka](https://www.confluent.io/product/ksql/)
 
