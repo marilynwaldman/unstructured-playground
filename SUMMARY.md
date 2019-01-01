@@ -51,3 +51,8 @@
 * [Install Vagrant on Mac](installation/install-vagrant-on-mac.md)
 * [Start VM on MAC](installation/start-vm-on-mac.md)
 
+## Reference
+
+* [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+* [Pandas Documents](http://pandas.pydata.org/pandas-docs/stable/)
+
