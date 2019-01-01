@@ -16,6 +16,7 @@
 * [Enviornment](enviornment.md)
 * [Hadoop Ecosystem](hadoop-and-hdfs/README.md)
   * [Operating Systems](hadoop-and-hdfs/operating-systems.md)
+  * [Docker](hadoop-and-hdfs/docker.md)
   * [HDFS](hadoop-and-hdfs/hdfs/README.md)
     * [Working with HDFS](hadoop-and-hdfs/hdfs/working-with-hdfs.md)
   * [MapReduce](hadoop-and-hdfs/mapreduce.md)
