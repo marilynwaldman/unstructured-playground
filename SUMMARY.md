@@ -24,7 +24,7 @@
   * [Lambda Expressions](untitled/lambda-expressions.md)
   * [Map Abstraction](untitled/map-abstraction.md)
   * [Filter Abstraction](untitled/filter-abstraction.md)
-  * [Untitled](untitled/untitled.md)
+  * [Reduce Abstraction](untitled/untitled.md)
 * [Apache Spark Ecosystem](apache-spark-ecosystem/README.md)
   * [Architecture](apache-spark-ecosystem/architecture.md)
   * [Installation and Getting Started](apache-spark-ecosystem/install-spark.md)
