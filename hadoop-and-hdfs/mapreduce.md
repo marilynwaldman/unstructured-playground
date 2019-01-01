@@ -15,7 +15,3 @@
 * Web‐link    graph    traversal 
 * Machine    learning
 
-### Workflow
-
-![](../.gitbook/assets/screen-shot-2018-12-29-at-10.16.14-pm.png)
-
