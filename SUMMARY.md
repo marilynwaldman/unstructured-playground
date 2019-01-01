@@ -55,10 +55,10 @@
 
 * [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 * [Pandas Documents](http://pandas.pydata.org/pandas-docs/stable/)
-* [Apache ElasticSearch for Hadoop](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/reference.html)
+* [NumPy](http://www.numpy.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Scikit-Learn](https://scikit-learn.org/stable/)
 * [Apache Spark](https://spark.apache.org/)
 * [Apache Kafka](https://kafka.apache.org/)
-* [Matplotlib](https://matplotlib.org/)
-* [NumPy](http://www.numpy.org/)
-* [Scikit-Learn](https://scikit-learn.org/stable/)
+* [Apache ElasticSearch for Hadoop](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/reference.html)
 
