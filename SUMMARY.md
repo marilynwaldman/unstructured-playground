@@ -62,6 +62,7 @@
   * [Apache Spark](https://spark.apache.org/)
   * [Apache Spark RDD Guide](https://spark.apache.org/docs/latest/rdd-programming-guide.html)
   * [Apache Spark SQL and DataFrames](https://spark.apache.org/sql/)
+  * [Apache Spark Streaming](https://spark.apache.org/streaming/)
 * [Apache Kafka](https://kafka.apache.org/)
 * [Apache ElasticSearch for Hadoop](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/reference.html)
 
