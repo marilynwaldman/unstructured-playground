@@ -6,6 +6,8 @@
 
 [slides](https://github.com/marilynwaldman/course/blob/master/Kafka/00-Introduction.pdf)
 
+![](../.gitbook/assets/screen-shot-2019-01-01-at-3.37.00-pm.png)
+
 #### Apache Kafka® is a distributed streaming platform. What exactly does that mean?
 
 A streaming platform has three key capabilities:
