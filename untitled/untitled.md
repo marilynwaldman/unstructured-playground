@@ -14,8 +14,8 @@ Reduce takes a list, a binary operation, and an identity element for the operati
 
 ```text
 from functools import reduce
-product = reduce((lambda x, y: x * y), [1, 2, 3, 4])
+product = reduce((lambda x, y: x * y), [47, 11, 42, 13])
 
-# Output: 24
+# Output: 113
 ```
 
