@@ -9,7 +9,7 @@ description: Filter
 Filter takes a list, list and a predicate.  It returns a list for which the predicate is true.
 
 ```text
-filter.lambda(x : predicate(x), list)
+filter(lambda x : predicate(x), list))
 ```
 
 ## Example
