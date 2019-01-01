@@ -8,7 +8,7 @@ description: Syntax and Examples
 
 ```text
 lambda x1,x2, ... ,xn: function( x1 x2 ... xn)
-     for n >= 0
+     for n >= 1
 ```
 
 ## Examples
