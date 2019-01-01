@@ -21,6 +21,7 @@
   * [Hive](hadoop-and-hdfs/hive.md)
   * [Pig](hadoop-and-hdfs/pig.md)
 * [Functional Programming](untitled.md)
+* [Lambda Expressions](lambda-expressions.md)
 * [Apache Spark Ecosystem](apache-spark-ecosystem/README.md)
   * [Architecture](apache-spark-ecosystem/architecture.md)
   * [Installation and Getting Started](apache-spark-ecosystem/install-spark.md)
