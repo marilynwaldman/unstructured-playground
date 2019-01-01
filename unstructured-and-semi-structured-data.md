@@ -2,12 +2,12 @@
 
 ## Introduction
 
-### Unstructured
+### Unstructured Data
 
-* text file
 * web logs
+* text files
 
-### Semi-Structured
+### Semi-Structured Data
 
 * Json
 * CSV
