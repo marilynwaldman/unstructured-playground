@@ -1,6 +1,6 @@
 # MapReduce
 
-![MapReduce](../.gitbook/assets/screen-shot-2019-01-01-at-9.32.43-am.png)
+![MapReduce](../.gitbook/assets/screen-shot-2019-01-01-at-9.32.43-am%20%281%29.png)
 
 ## Introduction
 
