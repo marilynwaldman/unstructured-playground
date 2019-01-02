@@ -17,6 +17,7 @@
 * [Scale, Scale, Scale ...](unstructured-and-semi-structured-data.md)
 * [Hadoop Ecosystem](hadoop-and-hdfs/README.md)
   * [Operating Systems](hadoop-and-hdfs/operating-systems.md)
+  * [Git](hadoop-and-hdfs/git.md)
   * [Docker](hadoop-and-hdfs/docker.md)
   * [HDFS](hadoop-and-hdfs/hdfs/README.md)
     * [Working with HDFS](hadoop-and-hdfs/hdfs/working-with-hdfs.md)
