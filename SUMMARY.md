@@ -61,7 +61,7 @@
 
 * [Reference Material](reference/reference-material/README.md)
   * [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
-  * [Pandas Documents](http://pandas.pydata.org/pandas-docs/stable/)
+  * [Pandas](http://pandas.pydata.org/pandas-docs/stable/)
   * [NumPy](http://www.numpy.org/)
   * [Matplotlib](https://matplotlib.org/)
   * [Scikit-Learn](https://scikit-learn.org/stable/)
