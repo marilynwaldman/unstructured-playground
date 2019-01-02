@@ -6,7 +6,7 @@ description: Reduce
 
 ## Syntax
 
-Reduce takes a list, a binary operation, and an identity element for the operation.  It returns a list of the operator applied to successive application of the operations to intermediate results
+Reduce takes a list, a binary operation, and an identity element for the operation.  It returns a value representing the binary operator applied to successive application of the operations to intermediate results.
 
 ![Reduce](../.gitbook/assets/screen-shot-2019-01-01-at-10.04.08-am.png)
 
