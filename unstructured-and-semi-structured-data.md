@@ -17,3 +17,7 @@
 * CSV
 * AVRO
 
+### Structured Data
+
+SQL 
+
