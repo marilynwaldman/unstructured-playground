@@ -2,6 +2,10 @@
 
 ## Introduction
 
+* Velocity
+* Variety
+* Volume
+
 ### Unstructured Data
 
 * web logs
