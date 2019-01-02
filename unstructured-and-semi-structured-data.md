@@ -5,6 +5,7 @@
 * Velocity
 * Variety
 * Volume
+* Cap Theorem
 
 ### Unstructured Data
 
