@@ -14,7 +14,7 @@
   * [Policy Regarding Religious Observances](course-information/policy-regarding-religious-observances.md)
 * [Homework](homework.md)
 * [Enviornment](enviornment.md)
-* [Unstructured and Semi-Structured Data](unstructured-and-semi-structured-data.md)
+* [Scale, Scale, Scale ...](unstructured-and-semi-structured-data.md)
 * [Hadoop Ecosystem](hadoop-and-hdfs/README.md)
   * [Operating Systems](hadoop-and-hdfs/operating-systems.md)
   * [Docker](hadoop-and-hdfs/docker.md)
