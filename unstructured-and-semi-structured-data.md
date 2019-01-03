@@ -5,7 +5,9 @@
 * Velocity
 * Variety
 * Volume
-* Cap Theorem
+* Veracity
+
+### Cap Theorem
 
 ### Unstructured Data
 
@@ -20,5 +22,5 @@
 
 ### Structured Data
 
-SQL 
+* SQL
 
