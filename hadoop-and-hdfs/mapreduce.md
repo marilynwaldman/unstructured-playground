@@ -15,3 +15,7 @@
 * Web‐link    graph    traversal 
 * Machine    learning
 
+### Slides
+
+[slides](https://github.com/marilynwaldman/course/blob/master/Hadoop/05-MapReduce.pdf)
+
