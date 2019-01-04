@@ -8,7 +8,7 @@ description: Introduction to Operating Systems for Data Analysts
 
 This section will cover the basic things you need to know about operating systems.  This includes:
 
-* File System  - local
+* File System  \(Local and HDFS\)
 * Memory
 * Processes
 * Networking - TCP/IP,   HTTP and ssh
