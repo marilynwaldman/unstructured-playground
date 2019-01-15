@@ -4,9 +4,13 @@
 
 Hadoop comes with a distributed filesystem,  _Hadoop Distributed File System, known as **HDFS**_.  You will learn basic HDFS commands and how to move data between your local filesystem and HDFS.
 
-### Install Hadoop - on the VM
+### Vagrant up
 
-Open a terminal and stop all current docker containers
+```text
+vagrant up
+```
+
+### Stop all docker containers on the VM
 
 ```text
 docker stop $(docker ps -aq)
@@ -15,15 +19,19 @@ docker stop $(docker ps -aq)
 ### Pull and run Hadoop
 
 ```text
-docker run -it --name hdfs sequenceiq/hadoop-docker:2.7.1 /etc/bootstrap.sh -bash
+docker start hdfs
 ```
 
-### After you see the bash-4.1\# issue an exit
+### "ssh" into the HDFS container
+
+```text
+docker exec -it hdfs bash
+```
+
+### You should see the bash prompt
 
 ```text
 bash-4.1# exit
-exit
-vagrant@ubuntu-bionic:~$
 ```
 
 ### Stop docker on the VM
@@ -55,7 +63,7 @@ export PATH=$PATH:$HADOOP_PREFIX/bin
 ### Create a data directory
 
 ```text
-mddir data
+mkdir data
 cd data
 ```
 
@@ -105,5 +113,21 @@ hdfs dfs -ls
 hdfs dfs -ls input
 ```
 
-#### 
+### Exit the docker machine \(\#bash-4.18\) 
+
+```text
+#bash-4.18 exit
+```
+
+### Stop all docker containers on the VM
+
+```text
+docker stop $(docker ps -aq)
+```
+
+### Shut down the VM - from the native machine
+
+```text
+vagrant halt
+```
 
