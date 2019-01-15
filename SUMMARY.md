@@ -22,6 +22,10 @@
     * [Install Docker for MacOS](enviornment/docker/install-docker-for-macos.md)
     * [Install Docker for Linux](enviornment/docker/install-docker-for-linux.md)
     * [Install Docker for Windows](enviornment/docker/install-docker-for-windows.md)
+* [Vagrant](vagrant/README.md)
+  * [Install Vagrant on Mac](vagrant/install-vagrant-on-mac.md)
+* [VirtualBox](virtualbox/README.md)
+  * [Install VirtualBox on Mac](virtualbox/test-group.md)
 * [Scale, Scale, Scale ...](unstructured-and-semi-structured-data.md)
 * [Hadoop Ecosystem](hadoop-and-hdfs/README.md)
   * [Operating Systems](hadoop-and-hdfs/operating-systems.md)
@@ -57,12 +61,6 @@
     * [Kafka:  The Definintive Guide](architecture/resources/kafka-the-definintive-guide.md)
     * [Kafka, Samza, and the Unix philosophy of distributed data](architecture/resources/kafka-samza-and-the-unix-philosophy-of-distributed-data.md)
 * [ElasticSearch and Kabana](elasticsearch-and-kabana.md)
-
-## Installation
-
-* [Install VirtualBox on Mac](installation/test-group.md)
-* [Install Vagrant on Mac](installation/install-vagrant-on-mac.md)
-* [Start VM on MAC](installation/start-vm-on-mac.md)
 
 ## Reference
 
