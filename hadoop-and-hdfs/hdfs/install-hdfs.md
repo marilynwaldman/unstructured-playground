@@ -6,6 +6,8 @@ description: Install HDFS as a docker container on your VM
 
 ## Installation
 
+### WARNING:  This download is memory intensive.  Before doing this exercise stop all unnecessary processes.  This means WORD, PowerPoint, Docker, etc.
+
 ### Start your VM from Vagrant
 
 ```text
@@ -13,7 +15,7 @@ cd msbx5420vagrant
 vagrant up
 ```
 
-After the VM starts, from the VM's terminal:
+After the VM starts, enter the following from the VM's terminal window:
 
 ```text
 docker stop hdfs
