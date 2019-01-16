@@ -4,19 +4,25 @@
 
 Hadoop comes with a distributed filesystem,  _Hadoop Distributed File System, known as **HDFS**_.  You will learn basic HDFS commands and how to move data between your local filesystem and HDFS.
 
+
+
+We will assume you have installed the HDFS docker container as in the previous step.  You will learn to load a local file into HDFS and read it back.
+
 ### Vagrant up
 
 ```text
+cd msbx5420vagrant
+vagrant halt
 vagrant up
 ```
 
-### Stop all docker containers on the VM
+### Stop the HDFS container if it is running
 
 ```text
-docker stop $(docker ps -aq)
+docker stop hdfs
 ```
 
-### Pull and run Hadoop
+### Start the HDFS container
 
 ```text
 docker start hdfs
@@ -31,28 +37,10 @@ docker exec -it hdfs bash
 ### You should see the bash prompt
 
 ```text
-bash-4.1# exit
-```
-
-### Stop docker on the VM
-
-```text
-docker stop $(docker ps -aq)
-```
-
-### Stop the VM from Vagrant - from the NATIVE terminal
-
-```text
-vagrant halt
+#bash-4.18
 ```
 
 ### Run commands
-
-After the docker image download and runs you will see  the bash prompt. You are now talking to the Hadoop container.
-
-```text
-#bash-4.18
-```
 
 ### Update Environmental Variable
 
@@ -63,11 +51,11 @@ export PATH=$PATH:$HADOOP_PREFIX/bin
 ### Create a data directory
 
 ```text
-mkdir data
-cd data
+mkdir mydata
+cd mydata
 ```
 
-### Create a csv file
+### Create a csv file - Enter these one at a time!!!!
 
 ```text
 echo "Mary,Smith"   >> people.csv
@@ -85,44 +73,50 @@ cat people.csv
 ### Make a HDFS directory
 
 ```text
-hdfs dfs -mkdir input
+hdfs dfs -mkdir myinput
 ```
 
 ### Copy the people.csv file to HDFS
 
 ```text
-hdfs dfs -put people.csv input
+hdfs dfs -put people.csv myinput
 ```
 
 ### Examine people.csv on HDFS
 
 ```text
-hdfs dfs -cat input/people.csv
+hdfs dfs -cat myinput/people.csv
 ```
 
 ### Copy the HDFS file to your local file system
 
 ```text
-hdfs dfs -get input/people.csv local_people.csv
+hdfs dfs -get myinput/people.csv local_people.csv
+```
+
+### Read the local file
+
+```text
+cat local_people.csv
 ```
 
 ### List HDFS files
 
 ```text
 hdfs dfs -ls
-hdfs dfs -ls input
+hdfs dfs -ls myinput
 ```
 
 ### Exit the docker machine \(\#bash-4.18\) 
 
 ```text
-#bash-4.18 exit
+ exit
 ```
 
 ### Stop all docker containers on the VM
 
 ```text
-docker stop $(docker ps -aq)
+docker stop hdfs
 ```
 
 ### Shut down the VM - from the native machine
