@@ -13,7 +13,7 @@ cd msbx5420vagrant
 vagrant up
 ```
 
-### Open a terminal in your VM and do the following 
+### Open a terminal in your VM and do the following:
 
 1.  Create a work directory that will contain all of your class Jupyter notebooks
 2.  Download notebooks I have created so far for the class.
@@ -61,7 +61,6 @@ http:localhost:8888
 
 ```text
 docker stop spark
-docker rm spark
 ```
 
 ### Stop your VM from your local machine \(Mac OS or Windows\)
