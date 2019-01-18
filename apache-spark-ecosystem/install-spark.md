@@ -22,7 +22,7 @@ vagrant up
 cd
 mkdir work
 cd work
-rm -rf unstructuredNotebooks
+rm -rf MSBX5420-001-FunctionalProgramming
 git clone  https://github.com/marilynwaldman/MSBX5420-001-FunctionalProgramming.git && rm -rf /MSBX5420-001-FunctionalProgramming.git
 ```
 
