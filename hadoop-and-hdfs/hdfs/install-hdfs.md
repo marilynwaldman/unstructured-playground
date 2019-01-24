@@ -31,6 +31,8 @@ docker pull sequenceiq/hadoop-docker:2.7.0
 
 ### Stop the VM from Vagrant - from the NATIVE terminal <a id="stop-the-vm-from-vagrant-from-the-native-terminal"></a>
 
+Be sure to restart Vagrant to relieve memory issues
+
 ```text
 vagrant halt
 ```
