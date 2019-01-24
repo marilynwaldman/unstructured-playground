@@ -29,12 +29,6 @@ docker rm $(docker ps -a -q)
 docker run -it --name hdfs sequenceiq/hadoop-docker:2.7.0 /etc/bootstrap.sh -bash
 ```
 
-### "ssh" into the HDFS container
-
-```text
-docker exec -it hdfs bash
-```
-
 ### You should see the bash prompt
 
 ```text
@@ -118,6 +112,7 @@ hdfs dfs -ls myinput
 
 ```text
 docker stop hdfs
+docker rm hdfs
 ```
 
 ### Shut down the VM - from the native machine
