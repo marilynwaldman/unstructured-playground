@@ -45,9 +45,9 @@ docker pull  jupyter/all-spark-notebook
 ### Run Spark
 
 ```text
-docker run -d --name spark  -p 8888:8888  
-    -v $HOME/work:/home/jovyan/work:rw  
-     jupyter/all-spark-notebook 
+docker run -d --name spark  -p 8888:8888  \
+    -v $HOME/work:/home/jovyan/work:rw  \
+     jupyter/all-spark-notebook \
      start-notebook.sh --NotebookApp.token='' 
 
 ```

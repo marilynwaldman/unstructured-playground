@@ -16,16 +16,17 @@ vagrant halt
 vagrant up
 ```
 
-### Stop the HDFS container if it is running
+### Stop remove all containers
 
 ```text
-docker stop hdfs
+docker kill $(docker ps -q)
+docker rm $(docker ps -a -q)
 ```
 
 ### Start the HDFS container
 
 ```text
-docker start hdfs
+docker run -it sequenceiq/hadoop-docker:2.7.0 /etc/bootstrap.sh -bash
 ```
 
 ### "ssh" into the HDFS container

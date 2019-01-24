@@ -15,30 +15,18 @@ cd msbx5420vagrant
 vagrant up
 ```
 
-After the VM starts, enter the following from the VM's terminal window:
+After the VM starts, enter the following from the VM's terminal window.  This will stop and remove all docker contains and remove any hadoop image.
 
 ```text
-docker stop hdfs
-docker rm hdfs
-docker rmi hdfs
+docker kill $(docker ps -q)
+docker rm $(docker ps -a -q)
+docker rmi sequenceiq/hadoop-docker
 ```
 
-### Pull and run Hadoop <a id="pull-and-run-hadoop"></a>
+### Pull Hadoop <a id="pull-and-run-hadoop"></a>
 
 ```text
-docker run -it --name hdfs sequenceiq/hadoop-docker:2.7.1 /etc/bootstrap.sh -bash
-```
-
-### After you see the bash-4.1\# issue an exit <a id="after-you-see-the-bash-4-1-issue-an-exit"></a>
-
-```text
-bash-4.1# exit
-```
-
-### Stop docker on the VM <a id="stop-docker-on-the-vm"></a>
-
-```text
-docker stop hdfs
+docker pull sequenceiq/hadoop-docker:2.7.0
 ```
 
 ### Stop the VM from Vagrant - from the NATIVE terminal <a id="stop-the-vm-from-vagrant-from-the-native-terminal"></a>
