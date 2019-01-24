@@ -28,11 +28,12 @@ git clone  https://github.com/marilynwaldman/MSBX5420-001-FunctionalProgramming.
 
 ### Stop all running docker containers
 
-If you do not have docker containers you will see error - ignore them.
+If you do not have docker containers and images you will see error - ignore them.
 
 ```text
 docker kill $(docker ps -q)
 docker rm $(docker ps -a -q)
+docker rmi jupyter/all-spark-notebook
 ```
 
 ### Pull the spark image
