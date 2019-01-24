@@ -29,8 +29,8 @@ git clone  https://github.com/marilynwaldman/MSBX5420-001-FunctionalProgramming.
 ### Stop all running docker containers
 
 ```text
-docker stop spark
-docker rm spark
+docker kill $(docker ps -q)
+docker rm $(docker ps -a -q)
 ```
 
 ### Pull the spark image
