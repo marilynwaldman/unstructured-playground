@@ -17,6 +17,8 @@ vagrant up
 
 After the VM starts, enter the following from the VM's terminal window.  This will stop and remove all docker contains and remove any hadoop image.
 
+#### _**Note - the commands below will fail if you have no containers or images.**_
+
 ```text
 docker kill $(docker ps -q)
 docker rm $(docker ps -a -q)

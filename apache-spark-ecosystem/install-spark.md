@@ -28,7 +28,7 @@ git clone  https://github.com/marilynwaldman/MSBX5420-001-FunctionalProgramming.
 
 ### Stop all running docker containers
 
-If you do not have docker containers and images you will see error - ignore them.
+_**If you do not have docker containers and images you will see error - ignore them.**_
 
 ```text
 docker kill $(docker ps -q)
