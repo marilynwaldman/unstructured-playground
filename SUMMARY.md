@@ -6,6 +6,7 @@
   * [Course Outline](course-information/course-description.md)
   * [Course Objectives](course-information/course-objectives.md)
   * [Grading](course-information/grading.md)
+  * [Untitled](course-information/untitled.md)
   * [Classroom Behavior](course-information/classroom-behavior.md)
   * [Disability Services](course-information/disability-services.md)
   * [Academic Integrity](course-information/academic-integrity.md)
