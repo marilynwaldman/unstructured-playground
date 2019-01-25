@@ -45,6 +45,7 @@
 * [Apache Spark Ecosystem](apache-spark-ecosystem/README.md)
   * [Architecture](apache-spark-ecosystem/architecture.md)
   * [Installation and Getting Started](apache-spark-ecosystem/install-spark.md)
+  * [Starting Your Spark Notebook](apache-spark-ecosystem/starting-your-spark-notebook.md)
   * [Programming with RDDs](apache-spark-ecosystem/spark-rdds.md)
   * [Spark SQL](apache-spark-ecosystem/spark-sql.md)
   * [Spark DataFrames](apache-spark-ecosystem/spark-dataframes.md)

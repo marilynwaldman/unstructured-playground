@@ -42,7 +42,7 @@ docker rmi jupyter/all-spark-notebook
 docker pull  jupyter/all-spark-notebook
 ```
 
-### Run Spark
+### Verify that Spark is running
 
 ```text
 docker run -d --name spark  -p 8888:8888  \
@@ -57,10 +57,10 @@ docker run -d --name spark  -p 8888:8888  \
 Open a browser window and issue:
 
 ```text
-http:localhost:8888
+http://localhost:8888
 ```
 
-### Stop and remove the Spark container
+### You can exit the browser and stop the spark container
 
 ```text
 docker stop spark
