@@ -8,5 +8,5 @@
 
 ## Slides
 
-slides
+[slides](https://github.com/marilynwaldman/course/blob/master/Hadoop/03-HDFS.pdf)
 
