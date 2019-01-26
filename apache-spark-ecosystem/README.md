@@ -8,6 +8,10 @@ description: Introduction to Apache Spark
 
 ![Image from DataBricks](../.gitbook/assets/screen-shot-2018-12-28-at-7.00.04-pm%20%282%29.png)
 
+## Slides
+
+[slides](https://github.com/marilynwaldman/course/blob/master/spark/00-Introduction/00-Introduction.pdf)
+
 ### Apache Spark is known for:
 
 * **Speed**
