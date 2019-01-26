@@ -6,6 +6,10 @@ credit : Apache Spark
 
 This document gives a short overview of how Spark runs on clusters, to make it easier to understand the components involved. Read through the [application submission guide](https://spark.apache.org/docs/latest/submitting-applications.html) to learn about launching applications on a cluster.
 
+## Slides
+
+[slides](https://github.com/marilynwaldman/course/blob/master/spark/01-Architecture/00-Architecture.pdf)
+
 ## Components <a id="components"></a>
 
 Spark applications run as independent sets of processes on a cluster, coordinated by the `SparkContext` object in your main program \(called the _driver program_\).
