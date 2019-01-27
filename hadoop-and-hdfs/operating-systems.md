@@ -15,5 +15,7 @@ This section will cover the basic things you need to know about operating system
 
 ## Slides
 
-[slides](https://github.com/marilynwaldman/course/blob/master/Hadoop/01-OperatingSystems.pdf)
+[slides pdf](https://github.com/marilynwaldman/course/blob/master/Hadoop/01-OperatingSystems.pdf)
+
+[slides pptx](https://github.com/marilynwaldman/course/blob/master/Hadoop/01-OperatingSystems.pptx)
 
