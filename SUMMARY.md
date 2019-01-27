@@ -30,6 +30,7 @@
     * [Install local VM](enviornment/virtualbox/install-local-vm.md)
     * [Install VirtualBox on Mac](enviornment/virtualbox/test-group.md)
   * [Virtual Environment](enviornment/virtual-environment.md)
+  * [Autograder](enviornment/autograder.md)
 * [Scale, Scale, Scale ...](unstructured-and-semi-structured-data.md)
 * [Hadoop Ecosystem](hadoop-and-hdfs/README.md)
   * [Operating Systems](hadoop-and-hdfs/operating-systems.md)
