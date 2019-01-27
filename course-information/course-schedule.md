@@ -6,7 +6,7 @@
 | :--- | :--- |
 | January 14 | [VM Installation](https://github.com/marilynwaldman/MSBX5420Spring2019/blob/master/0101vminstallation/README.md) [Course Overview](https://github.com/marilynwaldman/MSBX5420Spring2019/blob/master/0102courseoverview/README.md) [What is Virtualization?](https://github.com/marilynwaldman/MSBX5420Spring2019/blob/master/0103whatisvirtualization/README.md) [Linux Basics: Bash](https://github.com/marilynwaldman/MSBX5420Spring2019/blob/master/0104bash/README.md) |
 | January 21 | MLK NO CLASS  |
-| January 28 | Spark 1 |
+| January 28 | Review |
 | February 4 | Spark 2 |
 | February 11 | Exam 1 |
 | February 18 | Spark 3 |
