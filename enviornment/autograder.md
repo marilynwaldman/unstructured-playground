@@ -22,12 +22,13 @@ vagrant halt
 vagrant up
 ```
 
-### Download the exercise from Giub
+### Download the exercise from GitHub
 
 ```text
 cd
 cd work
 rm -rf autograder
+rm -rf MSBX5420-001-FunctionalProgramming
 git clone https://github.com/marilynwaldman/autograder.git
 ```
 
@@ -53,9 +54,27 @@ docker run -d --name spark  -p 8888:8888  \
 http://localhost:8888
 ```
 
-### Answer the question at the end of the exercise in the "autograder" folder
+### Pull up the exercise in the "autograder" folder
 
-### Download the .ipynb and submit to Canvas
+![](../.gitbook/assets/screen-shot-2019-01-27-at-12.20.33-pm.png)
+
+### Answer the question at the end of the notebook
+
+Note that you must comment out the "raise NotImplementedError\(\) and insert your answer
+
+![](../.gitbook/assets/screen-shot-2019-01-27-at-12.26.17-pm.png)
+
+### Download the notebook and submit to Canvas
+
+Note:
+
+* The notebook Downloads to you native machine. 
+* The name of the file to be submitted to the autograder must be "stock\_kurtosis.ipynb", exactly the name when downloaded from GitHub.
+* The cells are graded per the "assert" section.  Use care when modifying graded cells
+
+ 
+
+![](../.gitbook/assets/screen-shot-2019-01-27-at-12.29.09-pm.png)
 
 ### Stop all docker containers on the VM
 
