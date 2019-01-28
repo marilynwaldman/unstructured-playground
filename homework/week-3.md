@@ -18,7 +18,7 @@ description: Homework for week 3
 
 This assignment has three notebooks that you will turn in:
 
-1. Computing probability moments using Python iteration methods
+1. Computing probability moments using  iteration.
 2. Computing probability moments with functional programming in Python
 3. Computing probability moments with Spark Rdds
 
