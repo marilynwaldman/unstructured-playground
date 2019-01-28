@@ -68,7 +68,7 @@ Note:
 
  
 
-![](.gitbook/assets/screen-shot-2019-01-27-at-12.29.09-pm.png)
+![](../.gitbook/assets/screen-shot-2019-01-27-at-12.29.09-pm.png)
 
 ### Stop all docker containers on the VM
 
