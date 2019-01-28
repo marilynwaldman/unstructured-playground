@@ -6,11 +6,13 @@ description: Homework for week 3
 
 ## Notebooks are here:
 
-[notebooks](https://github.com/marilynwaldman/week3.git)
+[notebooks](https://github.com/marilynwaldman/week3)
 
+## Slides
 
+[slides - pdf](https://github.com/marilynwaldman/course/blob/master/Homework/Week3/01_week3.pdf)
 
-[https://github.com/marilynwaldman/week3](https://github.com/marilynwaldman/week3)
+[slides -pptx](https://github.com/marilynwaldman/course/blob/master/Homework/Week3/01_week3.pptx)
 
 ## Introduction
 
@@ -19,6 +21,8 @@ This assignment has three notebooks that you will turn in:
 1. Computing probability moments using Python iteration methods
 2. Computing probability moments with functional programming in Python
 3. Computing probability moments with Spark Rdds
+
+The meaning of the four probability moments is described[ here](http://www.aip.de/groups/soe/local/numres/bookcpdf/c14-1.pdf).
 
 ## Exercise
 
