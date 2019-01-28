@@ -30,9 +30,6 @@
     <tr>
       <td style="text-align:left">January 28</td>
       <td style="text-align:left">
-        <p>
-          <br />
-        </p>
         <p>Review</p>
         <p><a href="https://unstructured-playgroud.gitbook.io/unstructuredplayground/~/edit/drafts/-LXGYfH-8_CizdIKqFB3/v/release-1.0/enviornment/virtual-environment">Virtual Environment</a>
         </p>
@@ -41,6 +38,16 @@
         <p><a href="https://unstructured-playgroud.gitbook.io/unstructuredplayground/v/release-1.0/hadoop-and-hdfs/operating-systems">History of OS to Distributed Systems</a>
         </p>
         <p><a href="https://unstructured-playgroud.gitbook.io/unstructuredplayground/v/release-1.0/hadoop-and-hdfs/hdfs/working-with-hdfs">HDFS Lab</a>
+        </p>
+        <p><a href="https://unstructured-playgroud.gitbook.io/unstructuredplayground/v/release-1.0/hadoop-and-hdfs/mapreduce">MapReduce</a>
+        </p>
+        <p><a href="https://unstructured-playgroud.gitbook.io/unstructuredplayground/~/edit/drafts/-LXGxlPgPeQH0B2naXE2/v/release-1.0/homework/week-3">Homework 3</a>
+        </p>
+        <p><a href="https://unstructured-playgroud.gitbook.io/unstructuredplayground/v/release-1.0/apache-spark-ecosystem">Spark Introduction</a>
+        </p>
+        <p><a href="https://unstructured-playgroud.gitbook.io/unstructuredplayground/v/release-1.0/apache-spark-ecosystem/architecture">Spark Architecture</a>
+        </p>
+        <p><a href="https://unstructured-playgroud.gitbook.io/unstructuredplayground/v/release-1.0/apache-spark-ecosystem/spark-rdds">Spark RDDs</a>
         </p>
       </td>
     </tr>
