@@ -27,8 +27,18 @@ docker rmi sequenceiq/hadoop-docker
 
 ### Pull Hadoop <a id="pull-and-run-hadoop"></a>
 
+## _**NOTICE:**_  
+
+It was reported Sunday afternoon that students were unable to "pull" the docker container.  Please try the following instead of the pull.  If it succeeds you will see  a bash\# prompt.  Type exit and then shutdown Vagrant
+
 ```text
-docker pull sequenceiq/hadoop-docker:2.7.0
+docker run -it sequenceiq/hadoop-docker:2.7.1 /etc/bootstrap.sh -bash
+```
+
+## _This command may fail per the above_
+
+```text
+docker pull sequenceiq/hadoop-docker:2.7.1
 ```
 
 ### Stop the VM from Vagrant - from the NATIVE terminal <a id="stop-the-vm-from-vagrant-from-the-native-terminal"></a>
