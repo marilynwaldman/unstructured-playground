@@ -14,6 +14,7 @@
   * [Schedule](course-information/course-schedule.md)
   * [Policy Regarding Religious Observances](course-information/policy-regarding-religious-observances.md)
 * [Homework](homework.md)
+* [Week 3](week-3.md)
 * [Python](python.md)
 * [Learning Enviornment](enviornment/README.md)
   * [Git](enviornment/git/README.md)
