@@ -20,7 +20,8 @@ At a high level, every Spark application consists of a _driver program_ that run
 
 ### Basic RDDS - Slides and Notebooks
 
-* [slides](https://github.com/marilynwaldman/course/blob/master/spark/03-RDDs/01-BasicRdds.pdf)
+* [slides -pdf](https://github.com/marilynwaldman/course/blob/master/spark/03-RDDs/01-BasicRdds.pdf)
+* [slides - pptx](https://github.com/marilynwaldman/course/blob/master/spark/03-RDDs/01-BasicRdds.pdf)
 * [notebook](https://github.com/marilynwaldman/course/blob/master/spark/03-RDDs/01-BasicRdds.ipynb)
 
 ### Paired RDDs - Slides and Notebooks
