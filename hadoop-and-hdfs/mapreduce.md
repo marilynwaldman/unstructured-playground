@@ -17,5 +17,7 @@
 
 ### Slides
 
-[slides](https://github.com/marilynwaldman/course/blob/master/Hadoop/05-MapReduce.pdf)
+[slides - pdf](https://github.com/marilynwaldman/course/blob/master/Hadoop/05-MapReduce.pdf)
+
+[slides - pptx](https://github.com/marilynwaldman/course/blob/master/Hadoop/05-MapReduce.pptx)
 
