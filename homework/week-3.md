@@ -4,7 +4,11 @@ description: Homework for week 3
 
 # Week 3
 
-##  <a id="open-a-terminal-on-your-native-machine-and-start-vagrant"></a>
+## Notebooks are here: <a id="open-a-terminal-on-your-native-machine-and-start-vagrant"></a>
+
+[notebooks](https://github.com/marilynwaldman/week3.git)
+
+
 
 ## Introduction
 
@@ -29,7 +33,6 @@ vagrant up
 ```text
 cd
 cd work
-rm -rf autograder
 rm -rf week3
 git clone https://github.com/marilynwaldman/week3.git
 ```
