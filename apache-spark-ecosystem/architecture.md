@@ -8,9 +8,9 @@ This document gives a short overview of how Spark runs on clusters, to make it e
 
 ## Slides
 
-[slides - pdf](https://github.com/marilynwaldman/course/blob/master/spark/00-Introduction/00-Introduction.pdf)
+[slides - pdf](https://github.com/marilynwaldman/course/blob/master/spark/01-Architecture/00-Architecture.pdf)
 
-[slides -pptx](https://github.com/marilynwaldman/course/blob/master/spark/00-Introduction/00-Introduction.pptx)
+[slides -pptx](https://github.com/marilynwaldman/course/blob/master/spark/01-Architecture/00-Architecture.pptx)
 
 ## Components <a id="components"></a>
 

@@ -10,7 +10,9 @@ description: Introduction to Apache Spark
 
 ## Slides
 
-[slides](https://github.com/marilynwaldman/course/blob/master/spark/00-Introduction/00-Introduction.pdf)
+[slides - pdf](https://github.com/marilynwaldman/course/blob/master/spark/00-Introduction/00-Introduction.pdf)
+
+[slides - pptx](https://github.com/marilynwaldman/course/blob/master/spark/00-Introduction/00-Introduction.pptx)
 
 ### Apache Spark is known for:
 
