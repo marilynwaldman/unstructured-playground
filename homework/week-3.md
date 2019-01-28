@@ -4,11 +4,13 @@ description: Homework for week 3
 
 # Week 3
 
-## Notebooks are here: <a id="open-a-terminal-on-your-native-machine-and-start-vagrant"></a>
+## Notebooks are here:
 
 [notebooks](https://github.com/marilynwaldman/week3.git)
 
 
+
+[https://github.com/marilynwaldman/week3](https://github.com/marilynwaldman/week3)
 
 ## Introduction
 
