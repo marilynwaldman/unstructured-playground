@@ -26,7 +26,7 @@ docker rm $(docker ps -a -q)
 ### Start the HDFS container
 
 ```text
-docker run -it --name hdfs sequenceiq/hadoop-docker:2.7.0 /etc/bootstrap.sh -bash
+docker run -it --name hdfs sequenceiq/hadoop-docker:2.7.1 /etc/bootstrap.sh -bash
 ```
 
 ### You should see the bash prompt
