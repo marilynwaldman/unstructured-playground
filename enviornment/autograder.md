@@ -68,7 +68,7 @@ Note that you must comment out the "raise NotImplementedError\(\) and insert you
 
 Note:
 
-* The notebook Downloads to you native machine. 
+* The notebook Downloads to you virtual machine. 
 * The name of the file to be submitted to the autograder must be "stock\_kurtosis.ipynb", exactly the name when downloaded from GitHub.
 * The cells are graded per the "assert" section.  Use care when modifying graded cells
 

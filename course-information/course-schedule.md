@@ -41,7 +41,7 @@
         </p>
         <p><a href="https://unstructured-playgroud.gitbook.io/unstructuredplayground/v/release-1.0/hadoop-and-hdfs/mapreduce">MapReduce</a>
         </p>
-        <p><a href="https://unstructured-playgroud.gitbook.io/unstructuredplayground/~/edit/drafts/-LXGxlPgPeQH0B2naXE2/v/release-1.0/homework/week-3">Homework 3</a>
+        <p><a href="https://unstructured-playgroud.gitbook.io/unstructuredplayground/v/release-1.0/homework/week-3">Homework 3</a>
         </p>
         <p><a href="https://unstructured-playgroud.gitbook.io/unstructuredplayground/v/release-1.0/apache-spark-ecosystem">Spark Introduction</a>
         </p>
